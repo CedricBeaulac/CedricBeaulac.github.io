@@ -6,7 +6,7 @@ permalink: /publication/preprint1
 status : Upcoming
 venue : 
 date: 2999-01-01
-paperurl:'https://cedricbeaulac.github.io/files/Article_arXiv.pdf' 
+paperurl: 
 ---
 *Upcoming paper*
 
