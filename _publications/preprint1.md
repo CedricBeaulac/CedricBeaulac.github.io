@@ -4,7 +4,7 @@ authors : Cédric Beaulac and Jeffrey S. Rosenthal
 collection: publications
 permalink: /publication/preprint1
 status : Submitted
-venue : 
+venue : International Journal of Computer Vision
 date: 2020-10-31
 paperurl: 'https://cedricbeaulac.github.io/files/Article_ArXiv.pdf'
 ---
