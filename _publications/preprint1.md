@@ -6,7 +6,7 @@ permalink: /publication/preprint1
 status : Submitted
 venue : 
 date: 2999-01-01
-paperurl: 
+paperurl: 'https://cedricbeaulac.github.io/files/Article_ArXiv.pdf'
 ---
 Submitted to the [International Journal of Computer Vision](https://www.springer.com/journal/11263?gclid=Cj0KCQjwlvT8BRDeARIsAACRFiX22sCymdPWxSnp137bIml_fnA-WBgVp6jR60AAHnvV9ar3dEqJ1doaAkQ2EALw_wcB)
 
