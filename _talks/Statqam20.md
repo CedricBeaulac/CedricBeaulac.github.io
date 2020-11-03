@@ -1,11 +1,11 @@
 ---
-title: "Génération d'images : Une application de l'apprentissage automatique."
+title: "Auto-encodeur variationnel: vers de nouvelles applications et une mise à jour de la théorie."
 collection: talks
 type: "Conference proceedings talk"
-permalink: /talks/SESAM2019
-venue: "SÉSÀM 2019"
-date: 2019-03-15
+permalink: /talks/Statqam20
+venue: "Séminaire de STATQAM"
+date: 2020-11-05
 location: "Montréal, Québec, Canada"
 ---
 
-This talk was given at the Séminaire Étudiant en Statistique À Montréal 2019 (SÉSÀM) on March 15 at the Université du Québec À Montréal (UQAM). You can download the presentation slides [here](http://cedricbeaulac.github.io/files/SESAM2019.pdf).
+*Dans cette présentation nous discutons des auto-encodeurs variationnels, un modèle à variables latentes émergeant de la communauté d’apprentissage automatique. Pour débuter, nous introduisons les fondations théoriques de ce modèle et nous discutons d’une application de ce modèle à un problème classique de statistique: l’analyse de survie. Par la suite, nous abordons notre plus récent projet de recherche: la collecte et l’analyse d’une nouvelle base de donnés d’images. Celle-ci offre de nouvelles opportunités de recherche, entre autres, nous explorons des applications des auto-encodeurs variationnels telles que la classification semi-supervisée et la génération de nouvelles images. Dans ce dernier contexte, ce modèle nous permet de contrôler certaines caractéristiques des images générées. Finalement, nous faisons la démonstration que les implémentations populaires de ce modèle ne respectent pas la théorie. Nous discutons des problèmes que cela cause et nous suggérons des pistes de solution.*
