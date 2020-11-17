@@ -4,11 +4,11 @@ authors : Cédric Beaulac and Jeffrey S. Rosenthal
 collection: publications
 permalink: /publication/preprint1
 status : Submitted
-venue : International Journal of Computer Vision
+venue : Image and Vision Computing
 date: 2020-10-31
 paperurl: 'https://cedricbeaulac.github.io/files/Article_arXiv.pdf'
 ---
-Submitted to the [International Journal of Computer Vision](https://www.springer.com/journal/11263?gclid=Cj0KCQjwlvT8BRDeARIsAACRFiX22sCymdPWxSnp137bIml_fnA-WBgVp6jR60AAHnvV9ar3dEqJ1doaAkQ2EALw_wcB)
+Submitted to the [Image and Vision Computing](https://www.journals.elsevier.com/image-and-vision-computing)
 
 ### Abstract :
 
