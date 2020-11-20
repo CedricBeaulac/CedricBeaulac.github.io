@@ -8,7 +8,7 @@ venue : Image and Vision Computing
 date: 2020-10-31
 paperurl: 'https://cedricbeaulac.github.io/files/Article_arXiv.pdf'
 ---
-Submitted to the [Image and Vision Computing](https://www.journals.elsevier.com/image-and-vision-computing)
+Submitted to the International Journal of Computer Vision.
 
 ### Abstract :
 
