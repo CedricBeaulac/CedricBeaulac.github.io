@@ -12,7 +12,9 @@ redirect_from:
 Education
 ======
 
-* Ph.D. in Statistical Sciences, University of Toronto, In progress
+* Ph.D. in Statistical Sciences, University of Toronto, (Expected completion early 2021)
+  * Thesis : [Performance and accessibility of
+statistical learning algorithms for applied data analysis](https://cedricbeaulac.github.io/files/ut-thesis.pdf)
   * Supervisor : [Dr. Jeffrey S. Rosenthal](http://probability.ca/jeff/)
 
 * M.Sc. in Mathematics (Statistics), Université du Québec à Montréal, 2015
