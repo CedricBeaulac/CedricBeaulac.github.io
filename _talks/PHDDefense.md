@@ -2,7 +2,7 @@
 title: "Performance and accessibility of statistical learning algorithms for applied data analysis."
 collection: talks
 type: "Conference proceedings talk"
-permalink: /talks/PHDdefense
+permalink: /talks/PHDDefense
 venue: ""
 date: 2020-12-18
 location: "Toronto, Ontario, Canada"
