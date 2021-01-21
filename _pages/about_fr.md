@@ -16,6 +16,6 @@ I was born in Montréal in 1990 and still visit the city quite frequently! I lik
 À propos du site web... en français
 =====
 
-Cette page fut complètement traduite mais la pluspart du site est déjà très billingue contenant des articles et des présentations dans autant en français qu'en anglais. Pour un CV en français cliquer [ici]().
+Cette page fut complètement traduite mais la pluspart du site est déjà très billingue contenant des articles et des présentations dans autant en français qu'en anglais. Pour un CV en français cliquer [ici](https://cedricbeaulac.github.io/files/cvacadmique.pdf).
 
 
