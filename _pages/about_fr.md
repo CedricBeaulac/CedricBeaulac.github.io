@@ -3,9 +3,6 @@ permalink: /about_fr
 title: "À propos de moi"
 excerpt: "À propos de moi"
 author_profile: true
-redirect_from: 
-  - /about_fr/
-  - /about_fr.html
 ---
 
 
