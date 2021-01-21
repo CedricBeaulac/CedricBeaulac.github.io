@@ -1,5 +1,5 @@
 ---
-permalink: /about_fr
+permalink: /about_fr/
 title: "À propos de moi"
 excerpt: "À propos de moi"
 author_profile: true
