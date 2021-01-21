@@ -11,4 +11,4 @@ beaulac.cedric@gmail.com
   
 If you just want to chat about game design, prodecural content generation or anything else, I would love to as well! I think I'm very approachable, send me an email. 
  
-
+Ne vous gênez surtout pas de m'écrire en français!
