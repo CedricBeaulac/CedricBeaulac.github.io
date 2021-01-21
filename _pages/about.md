@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-I am currently a Ph.D. candidate in [Statistical Sciences](https://www.statistics.utoronto.ca) at the [University of Toronto](http://www.utstat.utoronto.ca) under the supervision of [Jeffrey S. Rosenthal](http://probability.ca/jeff/). I am only a few weeks away from completion. I have been exploring many statistical learning algorithms during the last few years. Recently, I am interested in Probabilistic Graphical Models such Variational Autoencoders (VAE) and State-Space models (SSM). I am studying their theoretical foundation, establishing new models and using such models in various applications such as survival analysis and time series. 
+I am currently a Ph.D. candidate in [Statistical Sciences](https://www.statistics.utoronto.ca) at the [University of Toronto](http://www.utstat.utoronto.ca) under the supervision of [Jeffrey S. Rosenthal](http://probability.ca/jeff/). I am only a few weeks away from completion. I have been exploring many statistical learning algorithms during the last few years. Recently, I am interested in Probabilistic Graphical Models such Variational Autoencoders (VAE) and State-Space models (SSM). I am studying their theoretical foundation, establishing new models and using such models in various applications such as survival analysis, time series and content generation. 
 
 About me (personally)
 =====
