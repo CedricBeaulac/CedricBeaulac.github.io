@@ -19,6 +19,6 @@ I was born in Montréal in 1990 and still visit the city quite frequently! I lik
 About the website
 =====
 
-I am currently setting up some french pages and updating my bio. Things are moving pretty fast at the moment and the website will be updated quite regularly. 
+I have recently created a [french cover page](https://cedricbeaulac.github.io/about_fr/). Things are moving pretty fast at the moment and the website will be updated quite regularly. 
 
 
