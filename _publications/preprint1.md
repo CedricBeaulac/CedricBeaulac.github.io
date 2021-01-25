@@ -4,11 +4,11 @@ authors : Cédric Beaulac and Jeffrey S. Rosenthal
 collection: publications
 permalink: /publication/preprint1
 status : Submitted
-venue : Image and Vision Computing
+venue : Signal Processing: Image Communication
 date: 2020-10-31
 paperurl: 'https://cedricbeaulac.github.io/files/Article_arXiv.pdf'
 ---
-Submitted to the International Journal of Computer Vision.
+Submitted to Signal Processing: Image Communication.
 
 ### Abstract :
 
