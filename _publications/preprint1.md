@@ -2,14 +2,20 @@
 title: "Analysis of a high-resolution hand-written digits data set with writer characteristics"
 authors : Cédric Beaulac and Jeffrey S. Rosenthal
 collection: publications
-permalink: /publication/AAI
-status : Published
+permalink: /publication/preprint1
+status : Submitted
 venue : Applied Artificial Intelligence
 date: 2020-10-14
 paperurl: 'https://cedricbeaulac.github.io/files/AAISub.pdf'
 ---
 
+---
 
+
+venue : Signal Processing: Image Communication
+date: 2020-10-31
+paperurl: 'https://cedricbeaulac.github.io/files/Article_arXiv.pdf'
+---
 
 
 Submitted to Signal Processing: Image Communication.
