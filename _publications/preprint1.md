@@ -8,6 +8,7 @@ venue : Signal Processing: Image Communication
 date: 2020-10-31
 paperurl: 'https://cedricbeaulac.github.io/files/Article_arXiv.pdf'
 ---
+
 Submitted to Signal Processing: Image Communication.
 
 ### Abstract :
