@@ -18,4 +18,4 @@ artificial intelligence performs two distinct tasks. First, it provides real-tim
 
 Download [here](http://downloads.hindawi.com/journals/ijcgt/2017/4939261.pdf)
 
-![HMMAI](/images/HMMAI.gif)
+![HMMAI](/images/CedricIllus.gif)
