@@ -28,6 +28,9 @@ Awards
 * 2021 : Distinguished Postdoctoral Fellowship
   * Canadian Statistical Sciences Institute (CANSSI)
 
+* 2020 : Doctoral Completion Award
+  * School of Graduate Studies, University of Toronto
+
 * 2020 : Departmental Teaching Assistant Award
   * Department of Statistical Sciences, University of Toronto
 
