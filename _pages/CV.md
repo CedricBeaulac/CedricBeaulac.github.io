@@ -25,7 +25,7 @@ statistical learning algorithms for applied data analysis](https://cedricbeaulac
 
 Awards
 ======
-* 2021 : Distinguished Postdoctoral Fellowship
+* 2021 : Distinguished Postdoctoral Fellowship ([DPF](http://www.canssi.ca/research-and-training-opportunities/canssi-postdoctoral-fellowships/))
   * Canadian Statistical Sciences Institute (CANSSI)
 
 * 2020 : Doctoral Completion Award
