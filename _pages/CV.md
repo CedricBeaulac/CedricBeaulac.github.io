@@ -26,7 +26,7 @@ statistical learning algorithms for applied data analysis](https://cedricbeaulac
 Awards
 ======
 * 2021 : Distinguished Postdoctoral Fellowship ([DPF](http://www.canssi.ca/research-and-training-opportunities/canssi-postdoctoral-fellowships/))
-  * Canadian Statistical Sciences Institute (CANSSI)
+  * Canadian Statistical Sciences Institute ([CANSSI](http://www.canssi.ca/))
 
 * 2020 : Doctoral Completion Award
   * School of Graduate Studies, University of Toronto
