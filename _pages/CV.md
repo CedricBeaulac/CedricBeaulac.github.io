@@ -25,10 +25,10 @@ statistical learning algorithms for applied data analysis](https://cedricbeaulac
 
 Awards
 ======
-* 2021 : CRM StatLab - CANSSI [Postdoctoral Fellowship](http://www.canssi.ca/wp-content/uploads/2020/12/CRM-StatLabOct2020.pdf) - Declined
+* 2021 : [CRM StatLab Postdoctoral Fellowship](http://www.canssi.ca/wp-content/uploads/2020/12/CRM-StatLabOct2020.pdf) - Declined
   * Canadian Statistical Sciences Institute ([CANSSI](http://www.canssi.ca/))
    
-* 2021 : CANSSI Distinguished Postdoctoral Fellowship [DPF](http://www.canssi.ca/research-and-training-opportunities/canssi-postdoctoral-fellowships/)
+* 2021 : CANSSI Distinguished Postdoctoral Fellowship ([DPF](http://www.canssi.ca/research-and-training-opportunities/canssi-postdoctoral-fellowships/))
   * Canadian Statistical Sciences Institute ([CANSSI](http://www.canssi.ca/))
 
 * 2020 : Doctoral Completion Award
