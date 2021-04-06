@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-I recently completed all of my Ph.D. requirements and will graduate in June 2021, you can download my thesis [here](). I completed a Ph.D. in [Statistical Sciences](https://www.statistics.utoronto.ca) at the [University of Toronto](http://www.utstat.utoronto.ca) under the supervision of [Jeffrey S. Rosenthal](http://probability.ca/jeff/). I have been exploring many statistical learning algorithms during the last few years. Recently, I am interested in Probabilistic Graphical Models such Variational Autoencoders (VAE) and State-Space models (SSM). I am studying their theoretical foundation, establishing new models and using such models in various applications such as survival analysis, time series and content generation. 
+I recently completed all of my Ph.D. requirements and will graduate in June 2021, you can download my thesis [here](https://cedricbeaulac.github.io/files/ut_thesis.pdf). I completed a Ph.D. in [Statistical Sciences](https://www.statistics.utoronto.ca) at the [University of Toronto](http://www.utstat.utoronto.ca) under the supervision of [Jeffrey S. Rosenthal](http://probability.ca/jeff/). I have been exploring many statistical learning algorithms during the last few years. Recently, I am interested in Probabilistic Graphical Models such Variational Autoencoders (VAE) and State-Space models (SSM). I am studying their theoretical foundation, establishing new models and using such models in various applications such as survival analysis, time series and content generation. 
 
 About me (personally)
 =====
