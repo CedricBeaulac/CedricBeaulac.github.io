@@ -11,6 +11,6 @@ Je viens tout juste de compléter mond doctorat en à l'[Université de Toronto]
 À propos du site web... en français
 =====
 
-Cette page fut complètement traduite mais la pluspart du site est déjà très billingue contenant des articles et des présentations autant en français qu'en anglais. Pour un CV en français cliquer [ici](https://cedricbeaulac.github.io/files/cvacadmique.pdf).
+Cette page fut complètement traduite mais la pluspart du site est déjà très billingue contenant des articles et des présentations autant en français qu'en anglais. Je suis un peu lent à mettre à jour la composante francophone du site web, pardonnez-moi. Pour un CV en français cliquer [ici](https://cedricbeaulac.github.io/files/cvacadmique.pdf).
 
 
