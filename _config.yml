@@ -79,13 +79,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Cédric Beaulac"
+  name             : "Cédric Beaulac, Ph.D."
   avatar           : "cb1.png"
-  bio              : "Ph.D. candidate at the University of Toronto"
+  bio              : "CANSSI Distinguished Postdoctoral Fellow"
   location         : #"Toronto, Ontario, Canada"
   employer         :
   googlescholar    : "https://scholar.google.ca/citations?user=R7brf2YAAAAJ&hl=en"
-  email            :
+  email            : "beaulac.cedric@gmail.com"
   uri              :
   bitbucket        :
   codepen          :
