@@ -9,7 +9,7 @@ date: 2020-10-31
 paperurl: 'https://cedricbeaulac.github.io/files/HWD.pdf'
 ---
 
-Submitted to Signal Processing: Image Communication.
+Submitted to Pattern Analysis and Applications.
 
 ### Abstract :
 
