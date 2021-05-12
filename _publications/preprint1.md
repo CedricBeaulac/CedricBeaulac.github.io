@@ -4,7 +4,7 @@ authors : Cédric Beaulac and Jeffrey S. Rosenthal
 collection: publications
 permalink: /publication/preprint1
 status : Submitted
-venue : Signal Processing Image Communication
+venue : Pattern Analysis and Applications
 date: 2020-10-31
 paperurl: 'https://cedricbeaulac.github.io/files/HWD.pdf'
 ---
