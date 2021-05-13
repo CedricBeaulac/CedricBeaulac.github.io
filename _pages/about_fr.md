@@ -11,6 +11,6 @@ Je viens tout juste de compléter mon doctorat en Statistique à l'[Université 
 À propos du site web... en français
 =====
 
-Je corrige régulièrement les coquilles qui se glisse dans le site web! Cette page fut complètement traduite mais la plupart du site est déjà billingue contenant des articles et des présentations autant en français qu'en anglais. Je suis un peu lent à mettre à jour la composante francophone du site web, pardonnez-moi. Pour un CV en français cliquer [ici](https://cedricbeaulac.github.io/files/cvacadmique.pdf).
+Je corrige régulièrement les coquilles qui se glissent dans le site web! Cette page fut complètement traduite mais la plupart du site est déjà billingue contenant des articles et des présentations autant en français qu'en anglais. Je suis un peu lent à mettre à jour la composante francophone du site web, pardonnez-moi. Pour un CV en français cliquer [ici](https://cedricbeaulac.github.io/files/cvacadmique.pdf).
 
 
