@@ -1,5 +1,5 @@
 ---
-title: "Démystifer les réseaux de neurones"
+title: "Démystifier les réseaux de neurones"
 collection: talks
 type: "Talk"
 permalink: /talks/Reseau
