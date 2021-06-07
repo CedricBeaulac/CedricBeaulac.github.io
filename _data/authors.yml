@@ -5,7 +5,7 @@ Name Name:
   uri         : "https://cedricbeaulac.github.io"
   email       : "cedric@utstat.toronto.edu"
   bio         : #"This is the first name."
-  avatar      : "cb2.jpg"
+  avatar      : #"cb2.jpg"
   twitter     : #"name"
   google_plus : #"Name"
   googlescholar : "https://scholar.google.ca/citations?user=R7brf2YAAAAJ&hl=en"
