@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 
-Je viens tout juste de compléter mon doctorat en Statistique à l'[Université de Toronto](http://www.utstat.utoronto.ca) sous la supervision de [Jeffrey S. Rosenthal](http://probability.ca/jeff/). Durant les dernières années j'ai exploré de nombreux algorithmes d'apprentissage statistique. Récemment, je m'intéresse aux Modèles Probabilistiques Graphiques comme les AutoEncodeusr Variationel (VAE) et les modèles d'espace-état (SSM). J'étudie leur fondations théoriques, j'établie de nouveaux modèles et j'utilise ceux-ci dans plusieurs applications tel que l'analyse de survie, l'étude de séries temporelles et la génération de contenues. Je vais bientôt débuter un stage de recherche postdoctoral à [l'Université Simon Fraser](https://www.sfu.ca/) et à [l'Université Victoria](https://www.uvic.ca/). 
+Je suis présentemment un chercheur postdoctoral à [l'Université Simon Fraser](https://www.sfu.ca/) et à [l'Université Victoria](https://www.uvic.ca/). Je viens tout juste de compléter mon doctorat en Statistique à l'[Université de Toronto](http://www.utstat.utoronto.ca) sous la supervision de [Jeffrey S. Rosenthal](http://probability.ca/jeff/). Durant les dernières années j'ai exploré de nombreux algorithmes d'apprentissage statistique. En ce moment, je m'intéresse à l'analyse et la génération d'images.
 
 À propos du site web... en français
 =====
