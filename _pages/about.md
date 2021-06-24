@@ -8,8 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-
-I recently completed all of my Ph.D. requirements and will graduate in June 2021, you can download my thesis [here](https://cedricbeaulac.github.io/files/ut-thesis.pdf). I completed a Ph.D. in [Statistical Sciences](https://www.statistics.utoronto.ca) at the [University of Toronto](http://www.utstat.utoronto.ca) under the supervision of [Jeffrey S. Rosenthal](http://probability.ca/jeff/). I have been exploring many statistical learning algorithms during the last few years. Recently, I am interested in Probabilistic Graphical Models such Variational Autoencoders (VAE) and State-Space models (SSM). I am studying their theoretical foundation, establishing new models and using such models in various applications such as survival analysis, time series and content generation. I will soon begin a postdoctoral fellow position at [Simon Fraser University](https://www.sfu.ca/) and  at the [University of Victoria](https://www.uvic.ca/).
+I have recently began a postdoctoral fellowship at [Simon Fraser University](https://www.sfu.ca/) and at the [University of Victoria](https://www.uvic.ca/) where I am studying neurimaging genetics problems under the supervision of [Farouk Nathou](https://www.math.uvic.ca/~nathoo/), [Jiguo Cao](https://www.sfu.ca/science/stat/cao/) and [Mirza Faisal Beg](https://www.sfu.ca/engineering/faculty-and-staff/faculty/faisal_beg.html). My research interests lie at the intersection of statistical sciences and machine learning. These days I am interested in image analysis and image generation. I recently received my Ph.D. in [Statistical Sciences](https://www.statistics.utoronto.ca) from the [University of Toronto](http://www.utstat.utoronto.ca); you can download my thesis [here](https://cedricbeaulac.github.io/files/ut-thesis.pdf). 
 
 About me (personally)
 =====
