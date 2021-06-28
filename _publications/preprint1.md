@@ -4,12 +4,12 @@ authors : Cédric Beaulac and Jeffrey S. Rosenthal
 collection: publications
 permalink: /publication/preprint1
 status : Submitted
-venue : Pattern Analysis and Applications
+venue : International Journal on Document Analysis and Recognition
 date: 2020-10-31
 paperurl: 'https://cedricbeaulac.github.io/files/HWD.pdf'
 ---
 
-Submitted to Pattern Analysis and Applications.
+Submitted to the International Journal on Document Analysis and Recognition.
 
 ### Abstract :
 
