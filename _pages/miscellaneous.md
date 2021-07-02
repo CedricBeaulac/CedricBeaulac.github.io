@@ -17,8 +17,8 @@ Unpublished work
 Appearances in promotional material
 ======
 
-University of Toronto : [Faculty of Arts and Sciences New](https://www.artsci.utoronto.ca/news/teaching-research-geek-stuff-and-video-games-create-perfect-harmony-new-arts-science-grad)
+* University of Toronto : [Faculty of Arts and Sciences News](https://www.artsci.utoronto.ca/news/teaching-research-geek-stuff-and-video-games-create-perfect-harmony-new-arts-science-grad)
 
-University of Toronto : [Faculty of Arts and Sciences New](https://www.artsci.utoronto.ca/news/teaching-research-geek-stuff-and-video-games-create-perfect-harmony-new-arts-science-grad)
+* University of Toronto : [Department of Statistical Sciences Alumni Profile](https://uoftstatsci.exposure.co/cedric-beaulac)
 
-University of Toronto : [Faculty of Arts and Sciences New](https://www.artsci.utoronto.ca/news/teaching-research-geek-stuff-and-video-games-create-perfect-harmony-new-arts-science-grad)
+* University of Toronto : [School of Graduate Studies Student Profile](https://www.sgs.utoronto.ca/profile/cedric-beaulac/)
