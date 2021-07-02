@@ -18,3 +18,7 @@ Appearances in promotional material
 ======
 
 University of Toronto : [Faculty of Arts and Sciences New](https://www.artsci.utoronto.ca/news/teaching-research-geek-stuff-and-video-games-create-perfect-harmony-new-arts-science-grad)
+
+University of Toronto : [Faculty of Arts and Sciences New](https://www.artsci.utoronto.ca/news/teaching-research-geek-stuff-and-video-games-create-perfect-harmony-new-arts-science-grad)
+
+University of Toronto : [Faculty of Arts and Sciences New](https://www.artsci.utoronto.ca/news/teaching-research-geek-stuff-and-video-games-create-perfect-harmony-new-arts-science-grad)
