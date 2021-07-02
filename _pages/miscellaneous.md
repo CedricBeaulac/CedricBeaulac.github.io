@@ -5,7 +5,7 @@ permalink: /miscellaneous/
 author_profile: true
 ---
 
-This page contains random things I didnt' know where to put. I have included a list of unpublished work. Most of these were not prepared for publications but some of these documents are still getting worked on. This page also contains some of my appearances in various university related promotional material. 
+This page contains a mixed bags of things. First, I have included a list of unpublished articles. Most of these were not prepared for publications but some of these documents are still getting worked on. This page also contains some of my appearances in various university related promotional material. 
 
 Unpublished work
 ======
