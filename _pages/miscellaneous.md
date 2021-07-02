@@ -17,7 +17,7 @@ Unpublished work
 Appearances in promotional material
 ======
 
-* CANSSI : [Distinguished Post-Doctoral Fellowship Award Announcement] (http://www.canssi.ca/genetic-correlates-of-alzheimers-disease-subtypes/)
+* CANSSI : [Distinguished Post-Doctoral Fellowship Award Announcement](http://www.canssi.ca/genetic-correlates-of-alzheimers-disease-subtypes/)
 
 * University of Toronto : [Faculty of Arts and Sciences News](https://www.artsci.utoronto.ca/news/teaching-research-geek-stuff-and-video-games-create-perfect-harmony-new-arts-science-grad)
 
