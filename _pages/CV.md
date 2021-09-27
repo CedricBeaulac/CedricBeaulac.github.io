@@ -97,13 +97,6 @@ Supervision
 * Ongoing : Sidi Wu, Ph.D., Simon Fraser University (co-supervision with Jiguo Cao)
 * Ongoing : Leno Rocha, Ph.D., University of Victoria (co-supervision with Farouk Nathoo et Michelle Miranda)
 * Ongoing : Ghazal Mirab, Masters, Simon Fraser University (co-supervision with Faisal Beg)
-  
-University commitment
-======
-* 2014-2015 : Mathematics Graduate Student Union
-* 2011-2013 : Mathematics Undergraduate Programs Committee
-* 2011-2012 : Mathematics Teaching Evaluation Committee
-* 2011-2012 : Mathematics New Students Integration Committee
 
 Teaching
 ======
@@ -119,6 +112,12 @@ Teaching
   * 2012-2014 MAT2070: Stochastic Processes
   * 2011-2013 MAT1085: Probability and Statistics
 
+University commitment
+======
+* 2014-2015 : Mathematics Graduate Student Union
+* 2011-2013 : Mathematics Undergraduate Programs Committee
+* 2011-2012 : Mathematics Teaching Evaluation Committee
+* 2011-2012 : Mathematics New Students Integration Committee
 
 Language
 ======
