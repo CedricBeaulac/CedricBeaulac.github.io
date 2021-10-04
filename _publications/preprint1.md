@@ -9,7 +9,7 @@ date: 2020-10-31
 paperurl: 'https://cedricbeaulac.github.io/files/HWD.pdf'
 ---
 
-Submitted to the International Journal on Document Analysis and Recognition.
+Submitted to the SN: Computer Science.
 
 ### Abstract :
 
