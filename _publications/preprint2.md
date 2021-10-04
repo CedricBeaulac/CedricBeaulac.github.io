@@ -6,7 +6,7 @@ permalink: /publication/preprint2
 status : Submitted
 venue : Journal of Machine Learning Research
 date: 2020-10-31
-paperurl: 'https://cedricbeaulac.github.io/files/HWD.pdf'
+paperurl: 'https://cedricbeaulac.github.io/files/MEGA_arXiv.pdf'
 ---
 
 Submitted to the Journal of Machine Learning Research.
