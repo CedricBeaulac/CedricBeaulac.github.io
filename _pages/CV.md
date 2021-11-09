@@ -98,6 +98,12 @@ Supervision
 * Ongoing : Leno Rocha, Ph.D., University of Victoria (co-supervision with Farouk Nathoo et Michelle Miranda)
 * Ongoing : Ghazal Mirab, Masters, Simon Fraser University (co-supervision with Faisal Beg)
 
+Reviews for Journals
+======
+
+* 2017 : Referees for Studies in Higher Education
+* 2021 : Referees for AERA Open
+
 Teaching
 ======
 * Course Instructor
