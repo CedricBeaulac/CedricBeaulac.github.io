@@ -4,7 +4,7 @@ authors : Cédric Beaulac and Jeffrey S. Rosenthal
 collection: publications
 permalink: /publication/preprint1
 status : Submitted
-venue : International Journal on Document Analysis and Recognition
+venue : SN Computer Science
 date: 2020-10-31
 paperurl: 'https://cedricbeaulac.github.io/files/HWD.pdf'
 ---
