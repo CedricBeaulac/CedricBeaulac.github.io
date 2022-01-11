@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I completed my Ph.D. in [Statistical Sciences](https://www.statistics.utoronto.ca) at the [University of Toronto](http://www.utstat.utoronto.ca) in 2021 under the supervision of [Jeffrey S. Rosenthal](http://probability.ca). I am currently a postdoctoral fellow at [Simon Fraser University](https://www.sfu.ca/) and at the [University of Victoria](https://www.uvic.ca/) where I am studying neurimaging genetics problems under the supervision of [Farouk Nathou](https://www.math.uvic.ca/~nathoo/), [Jiguo Cao](https://www.sfu.ca/science/stat/cao/) and [Mirza Faisal Beg](https://www.sfu.ca/engineering/faculty-and-staff/faculty/faisal_beg.html). My research focus is image analysis and image generation using a combination of machine learning and statistical appraoches. 
+I completed my Ph.D. in [Statistical Sciences](https://www.statistics.utoronto.ca) at the [University of Toronto](http://www.utstat.utoronto.ca) in 2021 under the supervision of [Jeffrey S. Rosenthal](http://probability.ca). I am currently a postdoctoral fellow at [Simon Fraser University](https://www.sfu.ca/) and at the [University of Victoria](https://www.uvic.ca/) where I am studying neurimaging genetics problems under the supervision of [Farouk Nathou](https://www.math.uvic.ca/~nathoo/), [Jiguo Cao](https://www.sfu.ca/science/stat/cao/) and [Mirza Faisal Beg](https://www.sfu.ca/engineering/faculty-and-staff/faculty/faisal_beg.html). My research focus is image analysis and image generation using a combination of machine learning and statistical approaches. 
 
 About me (personally)
 =====
