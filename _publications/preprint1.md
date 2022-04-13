@@ -6,7 +6,7 @@ permalink: /publication/preprint1
 status : Submitted
 venue : SN Computer Science
 date: 2020-10-31
-paperurl: 'https://cedricbeaulac.github.io/files/HWD.pdf'
+paperurl: 'https://cedricbeaulac.github.io/files/HWD_arXiv.pdf'
 ---
 
 Submitted to the SN: Computer Science.
@@ -26,7 +26,7 @@ images that mimics the writing style of specific writers. The data set provides 
 opportunities and our analysis establishes benchmarks and showcases some of the new
 opportunities made possible with this new data set.*
 
-Download [here](https://cedricbeaulac.github.io/files/HWD.pdf).
+Download [here](https://cedricbeaulac.github.io/files/HWD_arXiv.pdf).
 
 The full HWD+ data set is available [here](https://drive.google.com/drive/folders/1f2o1kjXLvcxRgtmMMuDkA2PQ5Zato4Or?usp=sharing).
 
