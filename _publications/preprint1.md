@@ -1,5 +1,5 @@
 ---
-title: "Analysis of a high-resolution hand-written digits data set with writer characteristics"
+title: "Introducing a new high-resolution hand-written digits data set with writer characteristics"
 authors : Cédric Beaulac and Jeffrey S. Rosenthal
 collection: publications
 permalink: /publication/preprint1
