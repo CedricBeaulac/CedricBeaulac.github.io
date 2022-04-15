@@ -9,7 +9,7 @@ date: 2020-10-31
 paperurl: 'https://cedricbeaulac.github.io/files/HWD_arXiv.pdf'
 ---
 
-Submitted to the SN: Computer Science.
+Submitted to the Springer Nature: Computer Science.
 
 ### Abstract :
 
