@@ -2,7 +2,7 @@
 title: "The integration of functional data analysis in conditional image generation"
 collection: talks
 type: "Group Talk"
-permalink: /talks/SESAM2019
+permalink: /talks/Jiguo
 venue: ""
 date: 2022-04-20
 location: "Online"
