@@ -1,9 +1,8 @@
 ---
 title: "The integration of functional data analysis in conditional image generation"
-collection: Misce
-type: "Group Talk"
-permalink: /talks/Jiguo
-venue: ""
+collection: miscellaneous
+permalink: /miscellaneous/GM
+venue: "Research Group Presentation"
 date: 2022-04-20
 location: "Online"
 ---
