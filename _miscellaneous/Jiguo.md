@@ -1,7 +1,7 @@
 ---
 title: "The integration of functional data analysis in conditional image generation"
 collection: miscellaneous
-permalink: /miscellaneous/GM
+permalink: /miscellaneous/Imgctrl
 venue: "Research Group Presentation"
 date: 2022-04-20
 location: "Online"
