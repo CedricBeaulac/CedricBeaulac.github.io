@@ -9,7 +9,7 @@ date: 2022-05-04
 paperurl: 'https://cedricbeaulac.github.io/files/DeepSurv.pdf'
 ---
 
-Submitted to Neurobiology of Aging.
+Research project lead by one of my Master's student, submitted to Neurobiology of Aging.
 
 ### Abstract :
 
