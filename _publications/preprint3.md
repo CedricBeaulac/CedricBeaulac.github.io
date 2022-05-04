@@ -2,7 +2,7 @@
 title: "Predicting Time-to-conversion for Dementia of Alzheimer's Type using Multi-modal Deep Survival Analysis"
 authors : Ghazal Mirabnahrazam, Da Ma, Cédric Beaulac, Sieun Lee, Karteek Popuri, Hyunwoo Lee, Jiguo Cao, James E Galvin, Lei Wang, Mirza Faisal Beg, the Alzheimer's Disease Neuroimaging Initiative
 collection: publications
-permalink: /publication/preprint2
+permalink: /publication/preprint3
 status : Submitted
 venue : Neurobiology of Aging
 date: 2022-05-04
