@@ -121,6 +121,10 @@ Teaching
   * 2012-2014 MAT2070: Stochastic Processes
   * 2011-2013 MAT1085: Probability and Statistics
 
+Statistical Consulting
+======
+* 2021 Machine Learning Associate at Burkett Statistical Consulting
+
 University commitment
 ======
 * 2014-2015 : Mathematics Graduate Student Union
