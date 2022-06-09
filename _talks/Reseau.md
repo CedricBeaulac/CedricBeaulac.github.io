@@ -8,4 +8,4 @@ date: 2021-05-05
 location: "Sainte-Thérèse, Québec, Canada"
 ---
 
-Une courte présentation offerte au Cégep Lionel-Groulx afin d'introduire les réseaux de neuronnes. Les diapositives sont disponibles [ici](http://cedricbeaulac.github.io/files/NNPresentation.pdf).
+Une courte présentation offerte au Cégep Lionel-Groulx afin d'introduire les réseaux de neurones. Les diapositives sont disponibles [ici](http://cedricbeaulac.github.io/files/NNPresentation.pdf).
