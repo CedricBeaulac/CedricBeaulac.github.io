@@ -94,9 +94,10 @@ Posters
 Supervision
 ======
 
+* Ongoing : Yasaman Shahhoseni, Ph.D., University of Victoria (co-supervision with Michelle Miranda and Farouk Nathoo)
 * Ongoing : Sidi Wu, Ph.D., Simon Fraser University (co-supervision with Jiguo Cao)
-* Ongoing : Leno Rocha, Ph.D., University of Victoria (co-supervision with Farouk Nathoo et Michelle Miranda)
-* Ongoing : Ghazal Mirab, Masters, Simon Fraser University (co-supervision with Faisal Beg)
+* Ongoing : Leno Rocha, Ph.D., University of Victoria (co-supervision with Farouk Nathoo and Michelle Miranda)
+* 2022 : Ghazal Mirabnahrazam, Masters, Simon Fraser University (co-supervision with Mirza Faisal Beg, Da Ma, Karteek Popuri and Lei Wang)
 
 Review and judging
 ======
