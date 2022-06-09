@@ -135,6 +135,6 @@ University commitment
 Language
 ======
 * Computer
-  * R, Python, C++, Matlab, Excel, Java, SAS,
+  * R, Python, C++, Matlab, Excel, Java, SAS
 * Human 
   * French, English, Spanish (intermediate) 
