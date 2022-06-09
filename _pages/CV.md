@@ -123,7 +123,7 @@ Teaching
 
 Statistical Consulting
 ======
-* 2021 Machine Learning Associate at Burkett Statistical Consulting
+* 2021 : Machine Learning Associate at Burkett Statistical Consulting
 
 University commitment
 ======
