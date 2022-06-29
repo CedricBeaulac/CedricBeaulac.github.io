@@ -102,10 +102,10 @@ Supervision
 Review and judging
 ======
 
-* 2017 : Reviewer for Studies in Higher Education
-* 2021 : Reviewer for AERA Open
-* 2022 : Reviewer for Research in Higher Education
 * 2022 : Judge for the 2022 CSSC presentation competition 
+* 2022 : Reviewer for Research in Higher Education
+* 2021 : Reviewer for AERA Open
+* 2017 : Reviewer for Studies in Higher Education
 
 Teaching
 ======
