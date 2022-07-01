@@ -3,7 +3,7 @@ title: "Estimation de la position d'un agent mobile dans un environnement borné
 collection: talks
 type: "Talk"
 permalink: /talks/MDefense
-venue: "Master Thesis Presentation"
+venue: "EMoSta Seminar"
 date: 2015-07-02
 location: "Montréal, Québec, Canada"
 ---
