@@ -85,7 +85,7 @@ author:
   location         : #"Toronto, Ontario, Canada"
   employer         :
   googlescholar    : "https://scholar.google.ca/citations?user=R7brf2YAAAAJ&hl=en"
-  email            : "beaulac.cedric@gmail.com"
+  email            : #"beaulac.cedric@gmail.com"
   uri              :
   bitbucket        :
   codepen          :
