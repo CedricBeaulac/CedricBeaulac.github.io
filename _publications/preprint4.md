@@ -1,5 +1,5 @@
 ---
-title: "Predicting Time-to-conversion for Dementia of Alzheimer's Type using Multi-modal Deep Survival Analysis"
+title: "Neuroimaging Feature Extraction using a Neural Network Classifier for Imaging Genetics"
 authors : Cédric Beaulac, Sidi Wu, Erin Gibson, Michelle F. Miranda, Jiguo Cao, Leno Rocha, Mirza Faisal Begb and Farouk S. Nathoo
 collection: publications
 permalink: /publication/preprint4
