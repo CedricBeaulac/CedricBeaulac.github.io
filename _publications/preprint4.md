@@ -4,7 +4,7 @@ authors : Cédric Beaulac, Sidi Wu, Erin Gibson, Michelle F. Miranda, Jiguo Cao,
 collection: publications
 permalink: /publication/preprint4
 status : Submitted
-venue : NeuroImage
+venue : Biometrics
 date: 2022-07-08
 paperurl: 'https://cedricbeaulac.github.io/files/Imaging_Genetics.pdf'
 ---
