@@ -12,7 +12,7 @@ redirect_from:
 Research Position
 ======
 
-* Assistant Professor, Université du Québec à Montréal, 2022-
+* Assistant Professor of Statistic, Département de mathématiques, Université du Québec à Montréal, 2022-
 
 * CANSSI Distinguished Postdoctoral Fellow, Simon Fraser University & University of Victoria, 2021-2022
   * Supervisors : [Farouk Nathou](https://www.math.uvic.ca/~nathoo/), [Jiguo Cao](https://www.sfu.ca/science/stat/cao/) and [Mirza Faisal Beg](https://www.sfu.ca/engineering/faculty-and-staff/faculty/faisal_beg.html)
