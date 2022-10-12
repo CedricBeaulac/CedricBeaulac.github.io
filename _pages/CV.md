@@ -12,6 +12,8 @@ redirect_from:
 Research Position
 ======
 
+* Assistant Professor, Université du Québec à Montréal, 2022-
+
 * CANSSI Distinguished Postdoctoral Fellow, Simon Fraser University & University of Victoria, 2021-2022
   * Supervisors : [Farouk Nathou](https://www.math.uvic.ca/~nathoo/), [Jiguo Cao](https://www.sfu.ca/science/stat/cao/) and [Mirza Faisal Beg](https://www.sfu.ca/engineering/faculty-and-staff/faculty/faisal_beg.html)
 
@@ -99,7 +101,6 @@ Supervision
 
 * Ongoing : Yasaman Shahhoseni, Ph.D., University of Victoria (co-supervision with Michelle Miranda and Farouk Nathoo)
 * Ongoing : Sidi Wu, Ph.D., Simon Fraser University (co-supervision with Jiguo Cao)
-* Ongoing : Leno Rocha, Ph.D., University of Victoria (co-supervision with Farouk Nathoo and Michelle Miranda)
 * 2022 : Ghazal Mirabnahrazam, Masters, Simon Fraser University (co-supervision with Mirza Faisal Beg, Da Ma, Karteek Popuri and Lei Wang)
 
 Review and judging
