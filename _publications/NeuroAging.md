@@ -3,9 +3,9 @@ title: "Predicting Time-to-conversion for Dementia of Alzheimer's Type using Mul
 authors : Ghazal Mirabnahrazam, Da Ma, Cédric Beaulac, Sieun Lee, Karteek Popuri, Hyunwoo Lee, Jiguo Cao, James E Galvin, Lei Wang and Mirza Faisal Beg
 collection: publications
 permalink: /publication/NeuroAging
-status : Accepted
+status : Published
 venue : Neurobiology of Aging
-date: 2022-10-11
+date: 2022-10-17
 paperurl: 'https://cedricbeaulac.github.io/files/DeepSurv.pdf'
 ---
 
