@@ -2,14 +2,14 @@
 title: "Introducing a new high-resolution hand-written digits data set with writer characteristics"
 authors : Cédric Beaulac and Jeffrey S. Rosenthal
 collection: publications
-permalink: /publication/preprint1
-status : Submitted
+permalink: /publication/SNCS
+status : Accepted
 venue : SN Computer Science
-date: 2020-10-31
+date: 2022-11-02
 paperurl: 'https://cedricbeaulac.github.io/files/HWD_arXiv.pdf'
 ---
 
-Submitted to the Springer Nature: Computer Science.
+Accepted for publication in [Springer Nature: Computer Science](https://www.springer.com/journal/42979/).
 
 ### Abstract :
 
