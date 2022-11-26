@@ -106,6 +106,7 @@ Supervision
 Review and judging
 ======
 
+* 2022 : Reviewer for the Journal of Agricultural, Biological, and Environmental Statistics
 * 2022 : Judge for the 2022 CSSC presentation competition 
 * 2022 : Reviewer for Research in Higher Education
 * 2021 : Reviewer for AERA Open
@@ -114,6 +115,7 @@ Review and judging
 Teaching
 ======
 * Course Instructor
+  * 2023 MAT8886:  Théorie de l'Apprentissage Statistique    
   * 2019 STA302 :  Methods of Data Analysis I
   
 * Statistical Consulting Mentor
