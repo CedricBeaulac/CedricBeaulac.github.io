@@ -12,24 +12,24 @@ redirect_from:
 Research Position
 ======
 
-* Assistant Professor of Statistics, Département de mathématiques, Université du Québec à Montréal, (Ongoing)
+* (Ongoing): Assistant Professor of Statistics, Département de mathématiques, Université du Québec à Montréal
 
-* CANSSI Distinguished Postdoctoral Fellow, Simon Fraser University & University of Victoria, 2021-2022
+* 2021-2022: CANSSI Distinguished Postdoctoral Fellow, Simon Fraser University & University of Victoria
   * Supervisors : [Farouk Nathou](https://www.math.uvic.ca/~nathoo/), [Jiguo Cao](https://www.sfu.ca/science/stat/cao/) and [Mirza Faisal Beg](https://www.sfu.ca/engineering/faculty-and-staff/faculty/faisal_beg.html)
 
 Education
 ======
 
-* Ph.D. in Statistical Sciences, University of Toronto, 2021
+* 2021: Ph.D. in Statistical Sciences, University of Toronto
   * Thesis : [Performance and accessibility of
 statistical learning algorithms for applied data analysis](https://cedricbeaulac.github.io/files/ut-thesis.pdf)
   * Supervisor : [Dr. Jeffrey S. Rosenthal](http://probability.ca/jeff/)
 
-* M.Sc. in Mathematics (Statistics), Université du Québec à Montréal, 2015
+* 2015: M.Sc. in Mathematics (Statistics), Université du Québec à Montréal 
   * Thesis : [Narrow Artificial Intelligence for Real-Time Estimation of a Mobile Agent’s Location Using Hidden Markov Models](https://cedricbeaulac.github.io/files/VersionFinale.pdf)
   * Supervisor : [Dr. Fabrice Larribe](http://fabricelarribe.uqam.ca)
 
-* B.Sc. in Mathematics (Statistics), Université du Québec à Montréal, 2013
+* 2013: B.Sc. in Mathematics (Statistics), Université du Québec à Montréal
 
 Awards
 ======
