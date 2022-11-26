@@ -5,7 +5,7 @@ collection: publications
 permalink: /publication/NeuroAging
 status : Published
 venue : Neurobiology of Aging
-date: 2022-10-17
+date: 2023-01-01
 paperurl: 'https://cedricbeaulac.github.io/files/DeepSurv.pdf'
 ---
 
