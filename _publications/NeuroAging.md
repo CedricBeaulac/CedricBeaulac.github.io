@@ -9,7 +9,7 @@ date: 2023-01-01
 paperurl: 'https://cedricbeaulac.github.io/files/DeepSurv.pdf'
 ---
 
-Research project lead by one of my Master's student, accepted for publication in [Neurobiology of Aging](https://www.sciencedirect.com/journal/neurobiology-of-aging).
+Research project lead by one of my Master's student, published in [Neurobiology of Aging](https://www.sciencedirect.com/journal/neurobiology-of-aging).
 
 ### Abstract :
 
