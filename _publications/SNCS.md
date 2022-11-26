@@ -8,8 +8,7 @@ venue : SN Computer Science
 date: 2023-01-01
 paperurl: 'https://cedricbeaulac.github.io/files/HWD_arXiv.pdf'
 ---
-
-Accepted for publication in [Springer Nature: Computer Science](https://www.springer.com/journal/42979/).
+Published in [Springer Nature: Computer Science](https://www.springer.com/journal/42979/).
 
 ### Abstract :
 
