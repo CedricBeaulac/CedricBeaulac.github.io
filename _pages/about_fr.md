@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 
-Je suis présentemment un chercheur postdoctoral à [l'Université Simon Fraser](https://www.sfu.ca/) et à [l'Université Victoria](https://www.uvic.ca/). Je travail actuellement sur des modèles d'analyse d'image et de génération d'image qui combinent des concepts d'apprentissage machine et d'analyse de données fonctionelles. J'ai complété mon doctorat en Statistique à l'[Université de Toronto](http://www.utstat.utoronto.ca) sous la supervision de [Jeffrey S. Rosenthal](http://probability.ca/jeff/) durant lequel j'ai exploré de nombreux algorithmes d'apprentissage statistique. 
+Je viens de débuter un psote de professeur en statistique à [l'Université du Québec à Montréal](https://statqam.uqam.ca). Avant j'étais chercheur postdoctoral à [l'Université Simon Fraser](https://www.sfu.ca/) et à [l'Université Victoria](https://www.uvic.ca/). Je travail actuellement sur des modèles d'analyse d'image et de génération d'image qui combinent des concepts d'apprentissage machine et d'analyse de données fonctionelles. J'ai complété mon doctorat en Statistique à l'[Université de Toronto](http://www.utstat.utoronto.ca) sous la supervision de [Jeffrey S. Rosenthal](http://probability.ca/jeff/) durant lequel j'ai exploré de nombreux algorithmes d'apprentissage statistique. 
 
 À propos du site web... en français
 =====
