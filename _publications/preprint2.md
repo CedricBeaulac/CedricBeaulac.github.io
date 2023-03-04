@@ -6,7 +6,7 @@ permalink: /publication/preprint2
 status : Submitted
 venue : Machine Learning
 date: 2020-10-31
-paperurl: 'https://cedricbeaulac.github.io/files/MEGA__Machine_Learning__Revision.pdf.pdf'
+paperurl: 'https://cedricbeaulac.github.io/files/MEGA__Machine_Learning__Revision.pdf'
 ---
 
 Submitted to Machine Learning.
