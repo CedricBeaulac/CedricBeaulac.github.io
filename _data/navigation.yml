@@ -12,12 +12,12 @@ main:
     
   - title: "Miscellaneous"
     url: /miscellaneous/  
+  
+  - title: "Supervision"
+    url: /contact2/
     
   - title: "Contact"
     url: /contact/
-    
-  - title: "Contact2"
-    url: /contact2/
 
   - title: "Fr"
     url: /about_fr/
