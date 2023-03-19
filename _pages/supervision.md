@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "Contact2"
-permalink: /contact2/
+title: "Supervision"
+permalink: /supervision/
 author_profile: true
 ---
 
