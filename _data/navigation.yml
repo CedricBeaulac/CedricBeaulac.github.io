@@ -15,7 +15,12 @@ main:
     
   - title: "Contact"
     url: /contact/
-    
+ 
+ - title: "Fr"
+    url: /students/
+
   - title: "Fr"
     url: /about_fr/
+    
+
 
