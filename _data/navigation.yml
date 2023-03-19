@@ -15,9 +15,9 @@ main:
     
   - title: "Contact"
     url: /contact/
- 
- - title: "Supervision"
-    url: /students/
+    
+  - title: "Contact2"
+    url: /contact2/
 
   - title: "Fr"
     url: /about_fr/
