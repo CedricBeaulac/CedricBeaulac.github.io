@@ -11,13 +11,12 @@ Mes travaux récents portent sur l'analyse d'images, la génération aléatoire 
 
 My recent work focusses on image analysis, image generation and the integration of machine learning techniques into classic statistical approaches, specifically in the field of functional data analysis. I am looking for students interested in the theoritical foundation of machine learning models, students that are curious, motivated and interested in both coding and statistics. I am actively recruiting 2 PhD students and 1 postdoctoral fellow. Please, contact me so we can discuss possible projects and funding opportunities. 
 
-# Past and current students
-
-Unpublished work and talks
+{% include base_path %}
+  
+Past and current students
 ======
-
-  {% for post in site.miscellaneous reversed %}
-    {% include archive-single.html %}
-  {% endfor %}
+   <ul>{% for post in site.talks reversed %}
+    {% include archive-single-talk-cv.html %}
+  {% endfor %}</ul>
 
 
