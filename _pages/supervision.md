@@ -13,7 +13,11 @@ My recent work focusses on image analysis, image generation and the integration 
 
 # Past and current students
 
-{% for post in site.students reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+Unpublished work and talks
+======
+
+  {% for post in site.miscellaneous reversed %}
+    {% include archive-single.html %}
+  {% endfor %}
+
 
