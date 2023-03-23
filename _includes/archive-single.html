@@ -41,7 +41,7 @@
         {% if post.collection == 'teaching' %}
           <p> {{ post.type }}, <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
         {% elsif post.collection == 'students' %}
-          <p>Unpublished work, {{ post.date | date: '%Y' }}</p>
+          <p>Ca marche pas</p>
         {% elsif post.collection == 'miscellaneous' %}
           <p>Unpublished work, {{ post.date | date: '%Y' }}</p>
         {% elsif post.collection == 'publications' and post.status =='Accepted' %}
