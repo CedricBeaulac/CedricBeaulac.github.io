@@ -15,7 +15,7 @@ My recent work focusses on image analysis, image generation and the integration 
   
 Past and current students
 ======
-   <ul>{% for post in site.talks reversed %}
+   <ul>{% for post in site.students reversed %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
 
