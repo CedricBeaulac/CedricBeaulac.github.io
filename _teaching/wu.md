@@ -1,5 +1,5 @@
 ---
-name: "Sidi Wu"
+title: "Sidi Wu"
 collection: students
 degree: Ph.D.
 permalink: /teaching/wu
