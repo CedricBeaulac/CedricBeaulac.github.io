@@ -41,9 +41,9 @@
         {% if post.collection == 'teaching' %}
           <p> {{ post.type }}, <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
         {% elsif post.collection == 'students' and post.status =='Current' %}
-          <p>{{ post.name}},{{ post.degree}}, started in {{ post.data}}</p>
+          <p>{{ post.name}},{{ post.degree}}, started in {{ post.date}}</p>
         {% elsif post.collection == 'students' and post.status =='Past' %}
-          <p>{{ post.name}},{{ post.degree}}, graduate in {{ post.data}</p>
+          <p>{{ post.name}},{{ post.degree}}, graduate in {{ post.date}</p>
         {% elsif post.collection == 'miscellaneous' %}
           <p>Unpublished work, {{ post.date | date: '%Y' }}</p>
         {% elsif post.collection == 'publications' and post.status =='Accepted' %}
