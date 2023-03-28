@@ -6,16 +6,16 @@ main:
     
   - title: "Talks"
     url: /talks/
-
-  - title: "CV"
-    url: /CV/  
+    
+  - title: "Supervision"
+    url: /students/
     
   - title: "Miscellaneous"
     url: /miscellaneous/  
   
-  - title: "Supervision"
-    url: /students/
-    
+  - title: "CV"
+    url: /CV/  
+ 
   - title: "Contact"
     url: /contact/
 
