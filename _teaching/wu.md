@@ -5,16 +5,12 @@ degree: "Ph.D."
 permalink: /teaching/wu
 venue: "Simon Fraser University"
 date: 2019-09-01
-location: "City, Country"
+status: "Current"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+Sidi Wu is a Ph.D student that I currently co-supervise with professor [Jiguo Cao](https://www.sfu.ca/science/stat/cao/index.html) at [Simon Fraser University](https://www.sfu.ca/stat-actsci.html).
 
-Heading 1
-======
+Our work together lead to one publication so far: [Neural Networks for Scalar Input and Functional Output](https://cedricbeaulac.github.io/publication/preprint5) and multiple posters and talks. 
 
-Heading 2
-======
 
-Heading 3
-======
+
