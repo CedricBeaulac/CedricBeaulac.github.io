@@ -1,6 +1,6 @@
 ---
 title: "Sidi Wu"
-collection: students
+collection: 'students'
 type: "Ph.D"
 permalink: /students/Wu
 venue: "Simon Fraser University"
