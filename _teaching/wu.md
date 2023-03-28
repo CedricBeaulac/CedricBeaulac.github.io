@@ -1,7 +1,7 @@
 ---
 title: "Sidi Wu"
 collection: students
-degree: "Ph.D"
+type: "Ph.D"
 permalink: /students/Wu
 venue: "Simon Fraser University"
 date: 2019-09-01
