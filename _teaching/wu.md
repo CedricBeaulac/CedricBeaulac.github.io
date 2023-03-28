@@ -1,11 +1,10 @@
 ---
 title: "Sidi Wu"
-collection: "students"
-degree: "Ph.D."
-permalink: "/teaching/wu"
+collection: students
+degree: "PH.D"
+permalink: /posters/SSC2022
 venue: "Simon Fraser University"
 date: 2019-09-01
-status: "Current"
 ---
 
 Sidi Wu is a Ph.D student that I currently co-supervise with professor [Jiguo Cao](https://www.sfu.ca/science/stat/cao/index.html) at [Simon Fraser University](https://www.sfu.ca/stat-actsci.html).
