@@ -2,7 +2,7 @@
 title: "Sidi Wu"
 collection: students
 degree: "PH.D"
-permalink: /posters/SSC2022
+permalink: /students/Wu
 venue: "Simon Fraser University"
 date: 2019-09-01
 ---
