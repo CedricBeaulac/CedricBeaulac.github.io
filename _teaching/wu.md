@@ -6,7 +6,7 @@ degree: "Ph.D"
 permalink: /students/Wu
 uni: "Simon Fraser University"
 status: current
-date: 2019-09-01
+date: 2018-09-01
 ---
 
 Sidi Wu is a Ph.D student that I currently co-supervise with professor [Jiguo Cao](https://www.sfu.ca/science/stat/cao/index.html) at [Simon Fraser University](https://www.sfu.ca/stat-actsci.html).
