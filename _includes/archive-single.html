@@ -39,8 +39,10 @@
     {% endif %}
 
 
-        {% if post.category == 'students' %}          
+        {% if post.category == 'students' and post.status =='current' %}          
           <p> {{ post.degree }} at {{post.uni}}, started in {{ post.date | date: '%B %Y' }}</p>
+        {% elsif post.category == 'students' and post.status =='completed' %}          
+          <p> {{ post.degree }} at {{post.uni}}, completed in {{ post.date | date: '%B %Y' }}</p>
         {% elsif post.collection == 'miscellaneous' %}
           <p>Unpublished work, {{ post.date | date: '%Y' }}</p>
         {% elsif post.collection == 'teaching' %}
