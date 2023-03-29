@@ -35,7 +35,7 @@ layout: default
         {% endif %}
         
         {% if page.category == 'students' %}
-          <p> {{ page.degree }} at {{ page.venue }}</p>
+          <p> {{ page.degree }} at {{ page.uni }}</p>
         {% elsif page.collection == 'teaching' %}
           <p> {{ page.type }}, <i>{{ page.venue }}</i>, {{ page.date | default: "1900-01-01" | date: "%Y" }} </p>
         {% elsif page.authors %}
