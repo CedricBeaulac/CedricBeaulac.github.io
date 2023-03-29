@@ -3,8 +3,8 @@ title: "Valentin Larchevêque"
 collection: students
 category: students
 degree: "Research Intern"
-permalink: /students/Wu
-uni: "Université Montpellier"
+permalink: /students/larcheveque
+uni: "Université du Québec à Montréal"
 status: current
 date: 2023-04-01
 ---
