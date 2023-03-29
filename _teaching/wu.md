@@ -4,6 +4,7 @@ collection: students
 degree: "Ph.D"
 permalink: /students/Wu
 uni: "Simon Fraser University"
+status: current
 date: 2019-09-01
 ---
 
