@@ -15,7 +15,7 @@ Past and current students
 ======
 
 {% include base_path %}
-{% for post in site.teaching reversed %}
+{% for post in site.teaching  %}
   {% include archive-single.html %}
 {% endfor %}
 
