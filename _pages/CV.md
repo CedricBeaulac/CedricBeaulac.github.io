@@ -99,6 +99,10 @@ Posters
 Supervision
 ======
 
+  <ul>{% for post in site.teaching reversed %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+
 * Ongoing : Yasaman Shahhoseni, Ph.D., University of Victoria (co-supervision with Michelle Miranda and Farouk Nathoo)
 * Ongoing : [Sidi Wu](https://www.sfu.ca/stat-actsci/news-and-events/sidiwu-ssc.html), Ph.D., Simon Fraser University (co-supervision with Jiguo Cao)
 * Ongoing : Valenting Larchevèque, Masters Interneship, Université de Montpellier
