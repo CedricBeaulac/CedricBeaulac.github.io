@@ -5,6 +5,7 @@ category: students
 degree: "Research Intern"
 permalink: /students/larcheveque
 uni: "Université du Québec à Montréal"
+co: "none"
 status: current
 date: 2023-04-01
 ---
