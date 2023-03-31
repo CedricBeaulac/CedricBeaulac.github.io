@@ -5,6 +5,7 @@ category: students
 degree: "Ph.D"
 permalink: /students/Wu
 uni: "Simon Fraser University"
+co: "Jiguo Cao"
 status: current
 date: 2018-09-01
 ---
