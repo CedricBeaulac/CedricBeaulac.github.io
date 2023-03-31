@@ -6,6 +6,7 @@ degree: "MS.c"
 permalink: /students/mirab
 uni: "Simon Fraser University"
 status: completed
+co: "Mirza Faisal Beg, Da Ma, Karteek Popuri and Lei Wang"
 date: 2022-08-01
 ---
 
