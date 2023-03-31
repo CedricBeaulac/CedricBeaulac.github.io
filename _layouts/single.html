@@ -34,8 +34,10 @@ layout: default
           <p class="page__date"><strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].date_label | default: "Published:" }}</strong> <time datetime="{{ page.modified | date: "%Y-%m-%d" }}">{{ page.modified | date: "%B %d, %Y" }}</time></p>
         {% endif %}
         
-        {% if page.category == 'students' %}
+        {% if page.category == 'students' and post.co =='none' %}
           <p> {{ page.degree }} at {{ page.uni }}</p>
+        {% elsif page.category == 'students' %}
+          <p> {{ page.degree }} at {{ page.uni }} (co-supervised by {{ page.co}}). </p>
         {% elsif page.collection == 'teaching' %}
           <p> {{ page.type }}, <i>{{ page.venue }}</i>, {{ page.date | default: "1900-01-01" | date: "%Y" }} </p>
         {% elsif page.authors %}
