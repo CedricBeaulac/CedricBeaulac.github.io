@@ -41,7 +41,7 @@
     {% elsif post.collection == 'publications' and post.status == 'Submitted'%}<p class="page__meta">{{ post.authors }} </p>
       <p class="page__meta">Under review </p>
     {% elsif post.category == 'students' and post.status =='current' %}<p class="page__meta"> Ongoing, {{ post.degree }} at  {{post.uni}} </p>
-    {% elsif post.category == 'students' and post.status =='past' %}<p class="page__meta"> {{ post.date | date: '%Y' }}, {{ post.degree }} at  {{post.uni}} </p>
+    {% elsif post.category == 'students' and post.status =='completed' %}<p class="page__meta"> {{ post.date | date: '%Y' }}, {{ post.degree }} at  {{post.uni}} </p>
     {% endif %}
     {% if post.venue%}<p class="archive__item-excerpt" itemprop="description">{{ post.citation }}</p> {% endif %}
     </li>
