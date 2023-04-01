@@ -36,10 +36,10 @@
     {% if post.read_time %}
       <p class="page__meta"><i class="fa fa-clock-o" aria-hidden="true"></i> {% include read-time.html %}</p>
     {% endif %}
-    {% if post.collection == 'publications' %}<p class="page__meta">{{ post.authors }} </p>
-       {% if post.status == 'published' %}<p class="page__meta">{{ post.venue}} </p>
-       {% elsif %}<p class="page__meta"> Under review </p>
-       {% endif %}
+    {% if post.collection == 'publications' and post.status == 'published'%}<p class="page__meta">{{ post.authors }} </p>
+       <p class="page__meta">{{ post.venue}} </p>
+    {% elsif post.collection == 'publications'%}<p class="page__meta">{{ post.authors }} </p>
+      <p class="page__meta">Under review </p>
     {% elsif post.category == 'students' and post.status =='current' %}<p class="page__meta"> Ongoing, {{ post.degree }} at  {{post.uni}} </p>
     {% elsif post.category == 'students' and post.status =='past' %}<p class="page__meta"> {{ post.date | date: '%Y' }}, {{ post.degree }} at  {{post.uni}} </p>
     {% endif %}
