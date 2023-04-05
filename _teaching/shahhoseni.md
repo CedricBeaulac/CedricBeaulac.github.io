@@ -4,7 +4,7 @@ collection: students
 category: students
 degree: "Ph.D"
 permalink: /students/mirab
-uni: "Simon Fraser University"
+uni: "University of Victoria"
 status: current
 co: "Michelle Miranda and Farouk Nathoo"
 date: 2021-09-01
