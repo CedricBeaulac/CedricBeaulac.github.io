@@ -3,7 +3,7 @@ title: "Yasaman Shahhoseni"
 collection: students
 category: students
 degree: "Ph.D"
-permalink: /students/mirab
+permalink: /students/shahhoseni
 uni: "University of Victoria"
 status: current
 co: "Michelle Miranda and Farouk Nathoo"
