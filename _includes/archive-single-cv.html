@@ -37,7 +37,7 @@
       <p class="page__meta"><i class="fa fa-clock-o" aria-hidden="true"></i> {% include read-time.html %}</p>
     {% endif %}
     {% if post.collection == 'publications' and post.status == 'Published'%}<p class="page__meta">{{ post.authors }} </p>
-       <p class="page__meta">{{ post.venue}} </p>
+       <p class="page__meta">{{ post.date | date: '%Y' }}, {{ post.venue}} </p>
     {% elsif post.collection == 'publications' and post.status == 'Submitted'%}<p class="page__meta">{{ post.authors }} </p>
       <p class="page__meta">Under review </p>
     {% elsif post.category == 'students' and post.status =='current' %}<p class="page__meta"> Ongoing, {{ post.degree }} at  {{post.uni}} </p>
