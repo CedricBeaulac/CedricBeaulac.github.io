@@ -3,9 +3,9 @@ title: "A moment-matching metric for latent variable generative models"
 authors : Cédric Beaulac
 collection: publications
 permalink: /publication/preprint2
-status : Submitted
+status : Accepted
 venue : Machine Learning
-date: 2020-10-31
+date: 2023-04-09
 paperurl: 'https://cedricbeaulac.github.io/files/MEGA__Machine_Learning__Revision.pdf'
 ---
 
