@@ -9,7 +9,7 @@ date: 2023-04-09
 paperurl: 'https://cedricbeaulac.github.io/files/MEGA__Machine_Learning__Revision.pdf'
 ---
 
-Submitted to Machine Learning.
+Accepted for publication in Machine Learning.
 
 ### Abstract :
 
