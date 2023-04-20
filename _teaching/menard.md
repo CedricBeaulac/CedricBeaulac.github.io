@@ -3,9 +3,9 @@ title: "Louis-Pierre Menard"
 collection: students
 category: students
 degree: "Research Intern"
-permalink: /students/larcheveque
+permalink: /students/menard
 uni: "Université du Québec à Montréal"
-co: "none"
+co: "Fabrice Larribe"
 status: current
 date: 2023-05-01
 ---
