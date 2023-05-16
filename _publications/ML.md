@@ -6,7 +6,7 @@ permalink: /publication/preprint2
 status : Accepted
 venue : Machine Learning
 date: 2023-04-09
-paperurl: 'https://cedricbeaulac.github.io/files/MEGA__Machine_Learning__Revision.pdf'
+paperurl: 'https://cedricbeaulac.github.io/files/MEGA__Machine_Learning__Revision___arXiv.pdf'
 ---
 
 Accepted for publication in Machine Learning.
