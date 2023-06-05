@@ -117,9 +117,10 @@ Review and judging
 Teaching
 ======
 * Course Instructor
-  * 2023 MAT2720:  Processus Stochastique
-  * 2023 MAT8886:  Théorie de l'Apprentissage Statistique    
-  * 2019 STA302 :  Methods of Data Analysis I
+  * 2023 UQAM STT3030:  Apprentissage Statistique 
+  * 2023 UQAM MAT2720:  Processus Stochastique
+  * 2023 UQAM STT8330:  Théorie de l'Apprentissage Statistique    
+  * 2019 UofT STA302 :  Methods of Data Analysis I
   
 * Statistical Consulting Mentor
   * 2018-2020 STA490: Statistical Consultation, Communication and Collaboration
