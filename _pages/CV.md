@@ -106,6 +106,8 @@ Supervision
 Review and judging
 ======
 
+* 2023 : Reviewer for a MITACS Accelerate proposal
+* 2023 : Reviewer for the Journal of Machine Learning Research
 * 2022 : Reviewer for the Journal of Agricultural, Biological, and Environmental Statistics
 * 2022 : Judge for the 2022 CSSC presentation competition 
 * 2022 : Reviewer for Research in Higher Education
