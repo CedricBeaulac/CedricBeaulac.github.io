@@ -31,6 +31,15 @@ statistical learning algorithms for applied data analysis](https://cedricbeaulac
 
 * 2013: B.Sc. in Mathematics (Statistics), Université du Québec à Montréal
 
+Research Operating Grants
+======
+
+* 2023-2028: [Discovery Grant](https://www.nserc-crsng.gc.ca/professors-professeurs/grants-subs/dgigp-psigp_eng.asp)
+  * Natural Sciences and Engineering Research Council of Canada (NSERC)
+
+* 2023-2025: Start-up Grant
+  * Université du Québec à Montréal 
+
 Awards
 ======
 * 2021 : [CRM StatLab Postdoctoral Fellowship](http://www.canssi.ca/wp-content/uploads/2020/12/CRM-StatLabOct2020.pdf) - Declined
