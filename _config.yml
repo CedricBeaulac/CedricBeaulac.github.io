@@ -81,9 +81,9 @@ analytics:
 author:
   name             : "Cédric Beaulac, Ph.D."
   avatar           : "cb2.jpg"
-  bio              : "Professor at the Université du Québec à Montréal"<br />"Membre Associé de STATQAM"
+  bio              : "Professor at the Université du Québec à Montréal"
   location         : #"Membre Associé de STATQAM"
-  employer         :
+  employer         : 
   googlescholar    : "https://scholar.google.ca/citations?user=R7brf2YAAAAJ&hl=en"
   email            : #"beaulac.cedric@gmail.com"
   uri              :
