@@ -17,5 +17,7 @@ Published in [Machine Learning](https://www.springer.com/journal/10994).
 
 The finalized published paper is publicly available [here](https://link.springer.com/article/10.1007/s10994-023-06340-x). Download a pre-print [here](https://cedricbeaulac.github.io/files/MEGA___Machine_Learning___Revision___arXiv.pdf).
 
+Access the GitHub repo [here](https://github.com/CedricBeaulac/LVGM_Analysis).
+
 
 
