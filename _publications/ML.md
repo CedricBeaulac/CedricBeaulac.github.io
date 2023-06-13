@@ -6,7 +6,7 @@ permalink: /publication/ML
 status : Published
 venue : Machine Learning
 date: 2023-06-012
-paperurl: 'https://cedricbeaulac.github.io/files/MEGA___Machine_Learning___Revision___arXiv.pdf'
+paperurl: 'https://link.springer.com/article/10.1007/s10994-023-06340-x'
 ---
 
 Published in [Machine Learning](https://www.springer.com/journal/10994).
