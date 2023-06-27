@@ -1,3 +1,4 @@
+---
 title: "Integrating Deep Learning into Functional Data Analysis"
 collection: talks
 type: "Invite talk"
