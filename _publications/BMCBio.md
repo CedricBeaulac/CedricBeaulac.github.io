@@ -2,7 +2,7 @@
 title: "Neuroimaging Feature Extraction using a Neural Network Classifier for Imaging Genetics"
 authors : Cédric Beaulac, Sidi Wu, Erin Gibson, Michelle F. Miranda, Jiguo Cao, Leno Rocha, Mirza Faisal Beg and Farouk S. Nathoo
 collection: publications
-permalink: /publication/preprint4
+permalink: /publication/BMCBio
 status : Published
 venue : BMC Bioinformatics
 date: 2023-06-30
