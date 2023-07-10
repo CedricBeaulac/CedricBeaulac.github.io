@@ -5,7 +5,7 @@ type: "Invited Talk"
 permalink: /talks/Statqam20
 venue: "Séminaire de STATQAM"
 date: 2020-11-05
-location: "Montréal, Québec, Canada"
+location: "Université du Québec à Montréal, Montréal, Québec, Canada"
 ---
 
 Ceci est une présentation invité lors d'un séminaire du groupe [STATQAM](https://statqam.uqam.ca) à l'Université du Québec à Montréal.
