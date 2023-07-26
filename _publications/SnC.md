@@ -6,7 +6,7 @@ permalink: /publication/SnC
 status : Accepted
 venue : Statistics and Computing
 date: 2022-08-10
-paperurl: 'https://cedricbeaulac.github.io/files/SIFO.pdf'
+paperurl: 'https://cedricbeaulac.github.io/files/SIFO2.pdf'
 ---
 
 Accepted for publication in [Statistics and Computing](https://www.springer.com/journal/11222).
