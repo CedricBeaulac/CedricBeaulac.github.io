@@ -2,14 +2,14 @@
 title: "Neural Networks for Scalar Input and Functional Output"
 authors : Sidi Wu, Cédric Beaulac and Jiguo Cao
 collection: publications
-permalink: /publication/preprint5
-status : Submitted
+permalink: /publication/SnC
+status : Accepted
 venue : Statistics and Computing
 date: 2022-08-10
 paperurl: 'https://cedricbeaulac.github.io/files/SIFO.pdf'
 ---
 
-Submitted to [Statistics and Computing](https://www.springer.com/journal/11222) for review.
+Accepted for publication in [Statistics and Computing](https://www.springer.com/journal/11222).
 
 UPDATE: The paper has gone through minor revision and the latest version can be downloaded [here](https://cedricbeaulac.github.io/files/SIFO2.pdf).
 
