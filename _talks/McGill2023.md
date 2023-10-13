@@ -1,0 +1,13 @@
+---
+title: "Neural network architectures for functional data analysis"
+collection: talks
+type: "Invite talk"
+permalink: /talks/McGill2023
+venue: "McGill Statistics Seminar"
+date: 2023-10-20
+location: "McGill University, Montréal, Ontario, Canada"
+---
+
+This is an invited talk given at the fall McGill Statistics Seminar. 
+
+ You can download the slides here soon. 
