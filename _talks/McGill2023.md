@@ -10,4 +10,4 @@ location: "McGill University, Montréal, Ontario, Canada"
 
 This is an invited talk given at the fall McGill Statistics Seminar. 
 
- You can download the slides here soon. 
+ You can download the slides [here](http://cedricbeaulac.github.io/files/McGill_FDA_NN.pdf).
