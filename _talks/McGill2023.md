@@ -8,6 +8,6 @@ date: 2023-10-20
 location: "McGill University, Montréal, Ontario, Canada"
 ---
 
-This is an invited talk given at the fall McGill Statistics Seminar. 
+This is an invited talk given at the fall [McGill Statistics Seminar](https://mcgillstat.github.io). 
 
  You can download the slides [here](http://cedricbeaulac.github.io/files/McGill_FDA_NN.pdf).
