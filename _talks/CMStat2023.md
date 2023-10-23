@@ -1,5 +1,5 @@
 ---
-title: "Applications of the functional machine learning."
+title: "Functional machine learning and applications"
 collection: talks
 type: "Invited talk"
 permalink: /talks/CMStat2023
