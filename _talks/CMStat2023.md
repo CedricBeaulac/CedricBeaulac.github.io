@@ -1,7 +1,7 @@
 ---
 title: "Applications of the functional machine learning."
 collection: talks
-type: "Invite talk"
+type: "Invited talk"
 permalink: /talks/CMStat2023
 venue: "CMStatistics 2023 Conference"
 date: 2023-12-16
