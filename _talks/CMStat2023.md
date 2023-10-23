@@ -1,5 +1,5 @@
 ---
-title: "Integrating Deep Learning into Functional Data Analysis"
+title: "Applications of the functional machine learning."
 collection: talks
 type: "Invite talk"
 permalink: /talks/CMStat2023
