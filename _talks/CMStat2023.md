@@ -10,4 +10,4 @@ location: "HTW Berlin University of Applied Sciences, Berlin, Germany"
 
 This is an invited talk given at the 16th International Conference on Computational and Methodological Statistics held at HTW Berlin University of Applied Sciences. 
 
-The slides will be available here soon.
+ You can download the slides [here](http://cedricbeaulac.github.io/files/CMStatistics.pdf).
