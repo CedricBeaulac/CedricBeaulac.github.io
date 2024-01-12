@@ -17,6 +17,8 @@ Unpublished work and talks
 Appearances in promotional material
 ======
 
+* CANSSI: [From Postdoc Fellowship to Faculty Position](https://canssi.ca/news/cdpf-postdoc-to-faculty/)
+
 * CANSSI : [Distinguished Post-Doctoral Fellowship Award Announcement](https://canssi.ca/story/cedric-beaulac-on-genetic-correlates-of-alzheimers-disease-subtypes/)
 
 * University of Toronto : [Faculty of Arts and Sciences News](https://www.artsci.utoronto.ca/news/teaching-research-geek-stuff-and-video-games-create-perfect-harmony-new-arts-science-grad)
