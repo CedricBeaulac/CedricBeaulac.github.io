@@ -28,4 +28,4 @@ experiments demonstrate that the proposed method outperforms functional principa
 superior smoothing ability and better computational efficiency in comparison to
 the conventional autoencoders under both linear and nonlinear settings.*
 
-Download a pre-print of the paper [here](Functional Autoencoder for Smoothing and Representation Learning). 
+Download a pre-print of the paper [here](https://arxiv.org/pdf/2401.09499.pdf). 
