@@ -5,7 +5,7 @@ collection: publications
 permalink: /publication/FAE
 status : Under Review
 venue : 
-date: 2024
+date: 2024-01-01
 paperurl: 'https://arxiv.org/pdf/2401.09499.pdf'
 ---
 
