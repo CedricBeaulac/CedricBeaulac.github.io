@@ -115,6 +115,7 @@ Supervision
 Review and judging
 ======
 
+* 2024 : External Reviewer for NSERC Discovery Programm - Committee 1508
 * 2023 : Reviewer for a MITACS Accelerate proposal
 * 2023 : Reviewer for the Journal of Machine Learning Research
 * 2022 : Reviewer for the Journal of Agricultural, Biological, and Environmental Statistics
