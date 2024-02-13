@@ -10,6 +10,6 @@ Je suis présentement professeur de statistique à [l'Université du Québec à 
 À propos du site web.
 =====
 
-La page d'accueil fut traduite, mais la plupart du site est déjà bilingue contenant des articles et des présentations autant en français qu'en anglais. Je viens tout juste d'ajouter une nouvelle page, [Supervision](https://cedricbeaulac.github.io/students) qui contient de l'information en lien au recrutement (oui je recrute présentement des étudiants à la maitrise mais surtout au doctorat) et qui contient la liste des mes étudiants présents et passés. Pour un CV en français, cliquez [ici](https://cedricbeaulac.github.io/files/CV_Francais_112022.pdf).
+La page d'accueil fut traduite, mais la plupart du site est déjà bilingue contenant des articles et des présentations autant en français qu'en anglais. Je viens tout juste d'ajouter une nouvelle page, [Supervision](https://cedricbeaulac.github.io/students) qui contient de l'information en lien au recrutement (oui je recrute présentement des étudiants à la maitrise mais surtout au doctorat) et qui contient la liste de mes étudiants présents et passés. Pour un CV en français, cliquez [ici](https://cedricbeaulac.github.io/files/CV_Francais_112022.pdf).
 
 
