@@ -9,4 +9,7 @@ co: "Fabrice Larribe"
 status: completed
 date: 2023-08-30
 ---
-Louis-Pierre Ménard completed a [NSERC-URSA](https://www.nserc-crsng.gc.ca/students-etudiants/ug-pc/usra-brpc_eng.asp) research internship at Université du Québec à Montréal. With professor [Fabrice Larribe](http://fabricelarribe.uqam.ca/), we explored the generative aspects of two-dimensional functional data analysis. A research report will be published here soon, en français.
+
+Louis-Pierre Ménard is currently funded via the [NSERC-URSA](https://www.nserc-crsng.gc.ca/students-etudiants/ug-pc/usra-brpc_eng.asp) research internship programm at Université du Québec à Montréal for the summer of 2024. With professor [Fabrice Larribe](http://fabricelarribe.uqam.ca/), we explored the generative aspects of two-dimensional functional data analysis. 
+
+Previously, Louis-Pierre Ménard completed a [NSERC-URSA](https://www.nserc-crsng.gc.ca/students-etudiants/ug-pc/usra-brpc_eng.asp) research internship at Université du Québec à Montréal in the summer of 2023. With professor [Fabrice Larribe](http://fabricelarribe.uqam.ca/), we explored the current mechanism of edge-detection and its connection to . 
