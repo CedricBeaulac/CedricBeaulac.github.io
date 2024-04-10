@@ -6,8 +6,8 @@ degree: "Research Intern"
 permalink: /students/menard
 uni: "Université du Québec à Montréal"
 co: "Fabrice Larribe"
-status: completed
-date: 2023-08-30
+status: Ongoing
+date: 2024-05-01
 ---
 
 Louis-Pierre Ménard is currently funded via the [NSERC-URSA](https://www.nserc-crsng.gc.ca/students-etudiants/ug-pc/usra-brpc_eng.asp) research internship programm at Université du Québec à Montréal for the summer of 2024. With professor [Fabrice Larribe](http://fabricelarribe.uqam.ca/), we explored the generative aspects of two-dimensional functional data analysis. 
