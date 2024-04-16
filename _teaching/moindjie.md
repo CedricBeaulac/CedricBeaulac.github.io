@@ -3,7 +3,7 @@ title: "Issam Moindjie"
 collection: students
 category: students
 degree: "Postdoctoral fellow"
-permalink: /students/menard
+permalink: /students/moindjie
 uni: "Université du Québec à Montréal"
 co: "Marie-Hélène Descary"
 status: current
