@@ -6,7 +6,7 @@ degree: "Research Intern"
 permalink: /students/menard
 uni: "Université du Québec à Montréal"
 co: "Fabrice Larribe"
-status: Ocurrent
+status: current
 date: 2024-05-01
 ---
 
