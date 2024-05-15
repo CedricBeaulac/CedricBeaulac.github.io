@@ -1,5 +1,5 @@
 ---
-title: "Issam Moindjie"
+title: "Issam Moindjié"
 collection: students
 category: students
 degree: "Postdoctoral fellow"
@@ -10,4 +10,4 @@ status: current
 date: 2024-05-01
 ---
 
-Issam Moindjie is a postdoctoral fellow co-supervised with Marie-Hélène Descary. Together we seek to investigate the registration of high-dimension functional data.
+Issam Moindjié is a postdoctoral fellow co-supervised with Marie-Hélène Descary. Together we seek to investigate the registration of high-dimension functional data.
