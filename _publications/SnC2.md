@@ -3,13 +3,13 @@ title: "Functional Autoencoder for Smoothing and Representation Learning"
 authors : Sidi Wu, Cédric Beaulac and Jiguo Cao
 collection: publications
 permalink: /publication/FAE
-status : Under Review
-venue : 
-date: 2024-01-01
+status : Accepted
+venue : Statistics and Computing
+date: 2024-09-09
 paperurl: 'https://arxiv.org/pdf/2401.09499.pdf'
 ---
 
-Under review.
+Accepted for publication in Statistics and Computing
 
 ### Abstract :
 
