@@ -10,4 +10,4 @@ status: current
 date: 2024-05-01
 ---
 
-Issam Moindjié is a postdoctoral fellow co-supervised with Marie-Hélène Descary. Together we seek to investigate the registration of high-dimension functional data.
+[Issam Moindjié](https://imoindjie.github.io/#index) is a postdoctoral fellow co-supervised with Marie-Hélène Descary. Together we seek to investigate the registration of high-dimension functional data.
