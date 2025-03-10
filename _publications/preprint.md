@@ -6,7 +6,7 @@ permalink: /publication/FunShape
 status : Under Review
 venue : 
 date: 2025-03-07
-paperurl: 'https://cedricbeaulac.github.io/publication/FunShape'
+paperurl: 'https://arxiv.org/abs/2503.05632'
 ---
 
 Under review.
