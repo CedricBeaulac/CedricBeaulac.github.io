@@ -5,7 +5,7 @@ type: "Invited talk"
 permalink: /talks/ICSDS
 venue: "International Conference on Statistics and Data Science"
 date: 2025-06-23
-location: "Simon Fraser University, Vancouver, B.C., Canada"
+location: "Simon Fraser University, Vancouver, British Columbia, Canada"
 ---
 
 This is an invited talk given at the 2025 International Conference on Statistics and Data Science. 
