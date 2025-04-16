@@ -9,7 +9,7 @@ date: 2025-04-16
 paperurl: 'https://arxiv.org/pdf/2406.12022'
 ---
 
-Under review.
+Accepted for publication in Frontiers in Genetics - Computational Genomics.
 
 ### Abstract :
 
