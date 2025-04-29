@@ -9,7 +9,7 @@ date: 2025-04-28
 paperurl: 'https://www.frontiersin.org/journals/genetics/articles/10.3389/fgene.2025.1569358/full'
 ---
 
-Accepted for publication in Frontiers in Genetics - Computational Genomics.
+Published in [Frontiers in Genetics - Computational Genomics](https://www.frontiersin.org/journals/genetics).
 
 ### Abstract :
 
