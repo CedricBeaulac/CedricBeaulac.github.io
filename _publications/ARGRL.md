@@ -31,4 +31,4 @@ Moreover, our method allows to build a distribution of short ARGs for a
 given sample, and can also generalize learning to new samples not used
 during the learning process.*
 
-Download a pre-print of the paper [here](https://arxiv.org/pdf/2406.12022). 
+Download a pre-print of the paper [here](https://arxiv.org/pdf/2406.12022). The official paper is available [here](https://www.frontiersin.org/journals/genetics/articles/10.3389/fgene.2025.1569358/full). 
