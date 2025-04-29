@@ -3,10 +3,10 @@ title: "Constructing Ancestral Recombination Graphs through Reinforcement Learni
 authors : Mélanie Raymond, Marie-Hélène Descary, Cédric Beaulac and Fabrice Larribe
 collection: publications
 permalink: /publication/ARGRL
-status : Accepted
+status : Published
 venue : Frontiers in Genetics - Computational Genomics
-date: 2025-04-16
-paperurl: 'https://arxiv.org/pdf/2406.12022'
+date: 2025-04-28
+paperurl: 'https://www.frontiersin.org/journals/genetics/articles/10.3389/fgene.2025.1569358/full'
 ---
 
 Accepted for publication in Frontiers in Genetics - Computational Genomics.
