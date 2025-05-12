@@ -10,4 +10,4 @@ status: current
 date: 2024-05-01
 ---
 
-[Issam Moindjié](https://imoindjie.github.io/#index) is a postdoctoral fellow co-supervised with Marie-Hélène Descary. Together we develop new models for curve alignement and shape analysis.
+[Issam Moindjié](https://imoindjie.github.io/#index) is a postdoctoral fellow co-supervised with Marie-Hélène Descary. Together we develop new models for curve alignement and shape analysis in images. Our joint work has led to one [submission](https://cedricbeaulac.github.io/files/shape.pdf), currently under review. 
