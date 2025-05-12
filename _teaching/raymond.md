@@ -10,6 +10,6 @@ status: current
 date: 2024-09-01
 ---
 
-Mélanie started a Ph.D. programm in September of 2024 under the supervision of professor Marie-Hélène Descary and myself. Together we seek to develop novel technique for edge detection using functional and wavelet approches.
+Mélanie began her Ph.D. program in September 2024 under the supervision of Professor Marie-Hélène Descary and myself. Together, we aim to develop novel techniques for edge detection using functional and wavelet-based approaches.
 
-  I previously co-supervised Mélanie Raymond with Marie-Hélène Descary and Fabrice Larribe during her Master's program. Our work together lead to one manuscript, [Constructing Ancestral Recombination Graphs through Reinforcement Learning](https://cedricbeaulac.github.io/publication/ARGRL) currently under review. 
+I previously co-supervised Mélanie Raymond with Marie-Hélène Descary and Fabrice Larribe during her Master’s program. This collaboration led to one publication: [Constructing Ancestral Recombination Graphs through Reinforcement Learning](https://cedricbeaulac.github.io/publication/ARGRL). 
