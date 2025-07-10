@@ -10,4 +10,4 @@ status: "current"
 date: 2025-06-10
 ---
 
-Andrea Davila is currently a master intern under the co-supervision of Issam-Ali Moindjié and myself. Andrea studies non-linear classification of functional shape data. 
+Andrea Davila is currently a master intern under the co-supervision of [Issam A. Moindjié](https://imoindjie.github.io/#index) and myself. Andrea studies non-linear classification of functional shape data. 
