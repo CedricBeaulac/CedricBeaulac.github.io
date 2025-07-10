@@ -5,7 +5,7 @@ category: students
 degree: "Research Intern"
 permalink: /students/davila
 uni: "Université du Québec à Montréal"
-co: "Issam-Ali Moindjié"
+co: "Issam A. Moindjié"
 status: "current"
 date: 2025-06-10
 ---
