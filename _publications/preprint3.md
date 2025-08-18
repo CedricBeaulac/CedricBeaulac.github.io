@@ -6,7 +6,7 @@ permalink: /publication/MultiShape
 status : Under Review
 venue : 
 date: 2025-08-18
-paperurl: 
+paperurl: 'https://cedricbeaulac.github.io/files/multishape.pdf'
 ---
 
 Under review.
