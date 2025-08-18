@@ -1,5 +1,5 @@
 ---
-title: "Statistical analysis of multivariate planar curves and applications to X-ray classification"
+title: "Statistical Analysis of Multivariate Planar Curves and Applications to X-ray Classification"
 authors : Issam-Ali Moindjié, Marie-Hélène Descary and Cédric Beaulac 
 collection: publications
 permalink: /publication/MultiShape
