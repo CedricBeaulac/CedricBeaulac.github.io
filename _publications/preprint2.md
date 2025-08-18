@@ -6,7 +6,7 @@ permalink: /publication/longmemory
 status : Under Review
 venue : 
 date: 2025-08-12
-paperurl:https://cedricbeaulac.github.io/files/longmemory.pdf
+paperurl:
 ---
 
 Under review.
