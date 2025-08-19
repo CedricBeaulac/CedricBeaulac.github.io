@@ -6,7 +6,7 @@ permalink: /publication/MultiShape
 status : Under Review
 venue : 
 date: 2025-08-18
-paperurl: 'https://arxiv.org/abs/2508.11780v1'
+paperurl: 'https://arxiv.org/pdf/2508.11780v1'
 ---
 
 Under review.
