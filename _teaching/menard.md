@@ -5,11 +5,12 @@ category: students
 degree: "MS.c"
 permalink: /students/menard
 uni: "Université du Québec à Montréal"
-co: 
+co: 'none'
 status: ongoing 
-date: 2024-09-01
+date: 2025-09-01
 ---
 
-Louis-Pierre Ménard completed a second internship funded via the [NSERC-URSA](https://www.nserc-crsng.gc.ca/students-etudiants/ug-pc/usra-brpc_eng.asp) research internship programm at Université du Québec à Montréal for the summer of 2024. With professor [Fabrice Larribe](http://fabricelarribe.uqam.ca/), we explored the learning of shapes resulting of edge-detection. 
+Louis-Pierre Ménard recently started a master's programm at Université du Québec à Montréal. Together we will develop an R package containing a large collection of function for the analysis of images using functional approaches.
 
-Previously, Louis-Pierre Ménard completed a [NSERC-URSA](https://www.nserc-crsng.gc.ca/students-etudiants/ug-pc/usra-brpc_eng.asp) research internship at Université du Québec à Montréal in the summer of 2023. With professor [Fabrice Larribe](http://fabricelarribe.uqam.ca/), we explored the current mechanism of edge-detection and its connection to functional data analysis. 
+Previously, Louis-Pierre Ménard completed three research internship funded via the [NSERC-URSA](https://www.nserc-crsng.gc.ca/students-etudiants/ug-pc/usra-brpc_eng.asp) programm at Université du Québec à Montréal for the summer of 2023, 2024 and 2025, with professor [Fabrice Larribe](http://fabricelarribe.uqam.ca/) being co-supervisor for the first two summers.
+
