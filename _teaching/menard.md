@@ -2,11 +2,11 @@
 title: "Louis-Pierre Ménard"
 collection: students
 category: students
-degree: "Research Intern"
+degree: "MS.c"
 permalink: /students/menard
 uni: "Université du Québec à Montréal"
-co: "Fabrice Larribe"
-status: completed 
+co: 
+status: ongoing 
 date: 2024-09-01
 ---
 
