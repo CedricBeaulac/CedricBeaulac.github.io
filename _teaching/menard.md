@@ -6,7 +6,7 @@ degree: "MS.c"
 permalink: /students/menard
 uni: "Université du Québec à Montréal"
 co: 'none'
-status: ongoing 
+status: 'current' 
 date: 2025-09-01
 ---
 
