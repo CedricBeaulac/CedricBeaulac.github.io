@@ -82,10 +82,10 @@ author:
   name             : "Cédric Beaulac, Ph.D."
   avatar           : "cb2.jpg"
   bio              : "Professor at the Université du Québec à Montréal"
-  location         : #"Membre Associé de STATQAM"
-  employer         : 
+  location         : 
+  employer         : "Membre régulier du laboratoire STATQAM"
   googlescholar    : "https://scholar.google.ca/citations?user=R7brf2YAAAAJ&hl=en"
-  email            : #"beaulac.cedric@gmail.com"
+  email            : "beaulac.cedric@uqam.ca
   uri              :
   bitbucket        :
   codepen          :
@@ -98,14 +98,14 @@ author:
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/c%C3%A9dric-beaulac-818ba1217/"
   orcid            : "http://orcid.org/0000-0002-6050-5313"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "@TheMarkovChain"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
