@@ -82,7 +82,7 @@ author:
   name             : "Cédric Beaulac, Ph.D."
   avatar           : "cb2.jpg"
   bio              : "Professor at the Université du Québec à Montréal"
-  location         : "Membre régulier du laboratoire STATQAM"
+  location         : #"Membre régulier du laboratoire STATQAM"
   employer         : 
   googlescholar    : "https://scholar.google.ca/citations?user=R7brf2YAAAAJ&hl=en"
   email            : #"beaulac.cedric@uqam.ca
@@ -98,7 +98,7 @@ author:
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         : #"https://www.linkedin.com/in/c%C3%A9dric-beaulac-818ba1217/"
+  linkedin         : "https://www.linkedin.com/in/c%C3%A9dric-beaulac-818ba1217/"
   orcid            : "http://orcid.org/0000-0002-6050-5313"
   pinterest        :
   soundcloud       :
