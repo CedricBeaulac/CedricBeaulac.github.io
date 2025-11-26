@@ -115,6 +115,8 @@ Supervision
 Review and judging
 ======
 
+* 2025 : External Reviewer for NSERC Discovery Programm - Committee 1508
+* 2025 : Reviewer for Journal of the Royal Statistical Society: Series C 
 * 2024 : Reviewer for Bioinformatics
 * 2024 : External Reviewer for NSERC Discovery Programm - Committee 1508
 * 2023 : Reviewer for a MITACS Accelerate proposal
