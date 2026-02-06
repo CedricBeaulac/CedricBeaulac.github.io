@@ -1,6 +1,6 @@
 ---
 title: "Comparing shape-based and pixel-based approaches for melanoma detection"
-authors: Andréa Davila, Issam-Ali Moindjié & Cédric Beaulac
+authors: Andréa Davila, Issam-Ali Moindjié and Cédric Beaulac
 collection: miscellaneous
 permalink: /miscellaneous/mole
 status : Accepted
