@@ -16,4 +16,4 @@ Abstract:
 
 
 
-You can download the presentation slides here later.
+You can download the presentation slides [here](http://cedricbeaulac.github.io/files/STATQAM_2026.pdf).
