@@ -34,6 +34,9 @@ statistical learning algorithms for applied data analysis](https://cedricbeaulac
 Research Operating Grants
 ======
 
+* 2026-2027: [Collaborative Supervision Program](https://canssi.ca/program/collaborative-supervision-program/)
+  * Canadian Statistical Sciences Institute (CANSSI)
+
 * 2023-2028: [Discovery Grant](https://www.nserc-crsng.gc.ca/professors-professeurs/grants-subs/dgigp-psigp_eng.asp)
   * Natural Sciences and Engineering Research Council of Canada (NSERC)
 
