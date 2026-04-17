@@ -4,7 +4,7 @@ collection: talks
 type: "Invited talk"
 permalink: /talks/Ecosta2026
 venue: "9th International Conference on Econometrics and Statistics (EcoSta 2026)"
-date: 2026-08-08
+date: 2026-08-10
 location: "Ryukoku University, Kyoto, Japan"
 ---
 
