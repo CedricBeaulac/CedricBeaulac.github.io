@@ -1,5 +1,5 @@
 ---
-title: "A Functional Approach for Curve Alignment and Shape Analysis"
+title: "A Functional Approach to Curve Alignment and Shape Analysis"
 authors : Issam-Ali Moindjié, Cédric Beaulac and Marie-Hélène Descary
 collection: publications
 permalink: /publication/FunShape
@@ -13,6 +13,7 @@ Under review.
 
 ### Abstract :
 
-*The shape $\tilde{\mathbf{X}}$ of a random planar curve $\mathbf{X}$ is what remains after removing deformation effects such as scaling, rotation, translation, and parametrization. Previous studies in statistical shape analysis have focused on analyzing $\tilde{\bf X}$ through discrete observations of the curve ${\bf X}$. While this approach has some computational advantages, it overlooks the continuous nature of both ${\bf X}$ and its shape $\tilde{\bf X}$. It also ignores potential dependencies among the deformation variables and their effect on $\tilde{ \bf X}$, which may result in information loss and reduced interpretability. In this paper, we introduce a novel framework for analyzing $\bf X$ in the context of Functional Data Analysis (FDA). Basis expansion techniques are employed to derive analytic solutions for estimating the deformation variables such as rotation and reparametrization, thereby achieving shape alignment. The generative model of $\bf X$ is then investigated using a joint-principal component analysis approach. Numerical experiments on simulated data and the MPEG-7 database demonstrate that our new approach successfully identifies the deformation parameters and captures the underlying distribution of planar curves in situations where traditional FDA methods fail to do so.*
+*In many image analysis problems, the contours of objects carry important statistical information about shape. Such contours are typically affected by deformation variables including scaling, translation, rotation, and reparametrization.   
+Previous studies in statistical shape analysis have mainly focused on analyzing contours and shapes through discrete observations. While this approach might offer computational advantages, it overlooks the continuous nature of these objects and their underlying geometric structure. It also ignores potential dependencies between the deformation variables and their effect on the shape, which may result in a loss of statistical information and reduced interpretability. In this paper, we introduce a novel framework for analyzing shapes within the context of Functional Data Analysis (FDA). Basis expansion techniques are employed to derive analytic solutions for the estimation of deformation variables, namely scaling, translation, rotation, and reparametrization, thereby achieving curve alignment. A generative model for random contours is then developed using principal component analysis techniques. Numerical experiments on simulated data and the MPEG-7 database demonstrate that our method successfully identifies deformation parameters and captures the underlying distribution of random contours in settings where traditional FDA methods fail.*
 
-Download a pre-print of the paper [here](https://cedricbeaulac.github.io/files/shape.pdf). 
+Download a pre-print of the paper [here](https://cedricbeaulac.github.io/files/shape2.pdf). 
