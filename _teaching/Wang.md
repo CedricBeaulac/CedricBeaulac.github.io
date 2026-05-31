@@ -5,8 +5,8 @@ category: students
 degree: "Research Intern"
 permalink: /students/wang
 uni: "Université du Québec à Montréal"
-co: 
-status: "Ongoing"
+co: "none"
+status: "current"
 date: 2026-05-11
 ---
 
