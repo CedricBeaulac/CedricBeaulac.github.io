@@ -3,7 +3,7 @@ title: "Kevin Wang"
 collection: students
 category: students
 degree: "Research Intern"
-permalink: /students/davila
+permalink: /students/wang
 uni: "Université du Québec à Montréal"
 co: 
 status: "Ongoing"
