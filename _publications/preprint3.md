@@ -1,12 +1,13 @@
 ---
-title: "Statistical Analysis of Multivariate Planar Curves and Applications to X-ray Classification"
+title: "Multivariate Planar Curves: A Statistical Framework
+for Shape Analysis in Images"
 authors : Issam-Ali Moindjié, Marie-Hélène Descary and Cédric Beaulac 
 collection: publications
 permalink: /publication/MultiShape
 status : Under Review
 venue : 
 date: 2025-08-18
-paperurl: 'https://arxiv.org/pdf/2508.11780v1'
+paperurl: 'https://arxiv.org/pdf/2508.11780'
 ---
 
 Under review.
