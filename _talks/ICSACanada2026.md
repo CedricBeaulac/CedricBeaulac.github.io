@@ -4,7 +4,7 @@ collection: talks
 type: "Invited talk"
 permalink: /talks/ICSACanada2026
 venue: "ICSA-Canada Chapter 2026 Symposium"
-date: 2026-08-07
+date: 2026-08-09
 location: "McGill University, Montréal, Québec, Canada"
 ---
 
