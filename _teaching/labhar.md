@@ -5,7 +5,7 @@ category: students
 degree: "MS.c"
 permalink: /students/Labhar
 uni: "Université du Québec à Montréal"
-co: 
+co: none
 status: current
 date: 2026-09-01
 ---
