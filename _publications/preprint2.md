@@ -3,13 +3,13 @@ title: "A Wavelet-Based Framework for Mapping Long Memory in Resting-State fMRI:
 authors : Yasaman Shahhosseni, Cédric Beaulac, Farouk Nathoo and Michelle F. Miranda
 collection: publications
 permalink: /publication/longmemory
-status : Under Review
-venue : 
-date: 2025-08-12
+status : Accepter
+venue : Human Brain Mapping
+date: 2026-09-01
 paperurl: 'https://arxiv.org/pdf/2508.11920'
 ---
 
-Under review.
+Accepted for publication in [Human Brain Mapping](https://onlinelibrary.wiley.com/page/journal/10970193/homepage/productinformation.html)
 
 ### Abstract :
 
