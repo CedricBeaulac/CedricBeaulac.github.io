@@ -2,7 +2,7 @@
 title: "A Wavelet-Based Framework for Mapping Long Memory in Resting-State fMRI: Age-Related Changes in the Hippocampus from the ADHD-200 Datasets"
 authors : Yasaman Shahhosseni, Cédric Beaulac, Farouk Nathoo and Michelle F. Miranda
 collection: publications
-permalink: /publication/longmemory
+permalink: /publication/HBM
 status : Accepted
 venue : Human Brain Mapping
 date: 2026-09-01
