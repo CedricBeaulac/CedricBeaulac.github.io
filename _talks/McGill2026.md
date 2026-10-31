@@ -8,10 +8,10 @@ date: 2026-11-13
 location: "McGill University, Montréal, Québec, Canada"
 ---
 
-This is a invited talk given at EcoSta 2026. 
+This is a invited talk given at the McGill Statistics Seminar series of 2026. 
 
 Abstract:
 
-*We consider the statistical analysis of images containing multiple objects of interest, where shapes can be represented through a collection of planar curves. While most existing approaches focus on single-object shape analysis, many applications, such as medical imaging, require modeling several contours jointly, along with their relative geometry. In this work, we propose a functional framework for the analysis of multivariate planar curves extracted from images. Each object is represented as a parametric curve, and the collection of curves is treated as a structured functional variable. Building on recent advances in functional shape analysis, we develop methods to jointly align multiple contours while preserving their spatial relationships. This allows us to capture both individual shape variability and interactions between objects, such as relative size, position, and orientation. We then introduce statistical models to describe this joint variability and demonstrate how these representations can be used for tasks such as classification and anomaly detection. The proposed framework is illustrated on medical imaging data, where the joint analysis of anatomical structures provides clinically relevant information. Our results highlight the importance of modeling shapes as interacting objects rather than independent entities, and show that functional representations offer a flexible and interpretable approach to multivariate shape analysis.*
+*Images are an increasingly important source of information across scientific disciplines, yet their statistical analysis remains challenging due to the high dimensionality and complex spatial structure of pixel-based representations. In this talk, we explore a functional perspective on image analysis, where images and the objects they contain are represented as continuous functions rather than discrete collections of pixels. We first introduce a framework for representing and aligning object contours, enabling statistical shape analysis and classification. We then extend this approach to multiple interacting contours, preserving their relative geometric relationships. Finally, we discuss the representation of image colors through smooth surfaces, modeled as multidimensional functions. Together, these approaches illustrate how images can be analyzed as collections of objects defined by their shapes, textures, and colors.*
 
-Slides are available [here](http://cedricbeaulac.github.io/files/EcoSta2026.pdf).
+Slides will be available [here]().
