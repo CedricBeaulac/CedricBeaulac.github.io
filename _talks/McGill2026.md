@@ -14,4 +14,4 @@ Abstract:
 
 *Images are an increasingly important source of information across scientific disciplines, yet their statistical analysis remains challenging due to the high dimensionality and complex spatial structure of pixel-based representations. In this talk, we explore a functional perspective on image analysis, where images and the objects they contain are represented as continuous functions rather than discrete collections of pixels. We first introduce a framework for representing and aligning object contours, enabling statistical shape analysis and classification. We then extend this approach to multiple interacting contours, preserving their relative geometric relationships. Finally, we discuss the representation of image colors through smooth surfaces, modeled as multidimensional functions. Together, these approaches illustrate how images can be analyzed as collections of objects defined by their shapes, textures, and colors.*
 
-Slides will be available [here]().
+Slides are available [here](http://cedricbeaulac.github.io/files/McGill_Nov_2026.pdf).
